@@ -1,0 +1,24 @@
+Class 1: Customer Complaints
+Class 2: Music Streaming Issues
+Class 3: Food Quality and Service
+Class 4: International Orders and Shipments
+Class 5: Music Streaming App Issues
+Class 6: Mobile App Technical Support
+Class 7: Ride-sharing Service Complaints
+Class 8: Air Travel Issues
+Class 9: Social Media Support
+Class 10: Social Media Support
+Class 11: Online Shopping Support
+Class 12: Public Transportation Issues
+Class 13: Social Media Support
+Class 14: Social Media Support
+Class 15: Social Media Support
+Class 16: Technical Support
+Class 17: Technical Support
+Class 18: Technical Support
+Class 19: Online Shopping Support
+Class 20: Online Shopping Support
+Class 21: Online Shopping Support
+Class 22: Online Shopping Support
+Class 23: Airline Support
+Class 24: Internet Service Provider Support
