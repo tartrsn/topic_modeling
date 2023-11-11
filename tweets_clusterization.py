@@ -178,7 +178,7 @@ class DataExporter:
 
 
 if __name__ == "__main__":
-
+    # Tweet_clusterization is main script. To run it, enter your directory in input_path. In _prepare_dataset rename the column with customer messages to ConversationRemark.
     input_path = 'your/path'
 
 
@@ -187,7 +187,6 @@ if __name__ == "__main__":
     client = openai.OpenAI()
 
     # Process Conversations
-    ### Before processing the dataset, rename the column with customer messages to ConversationRemark
     conversation_processor = ConversationProcessor(input_path)
     df_conversations = conversation_processor.df
 
