@@ -1,0 +1,11 @@
+Class 1: Unresolved Issue  
+Class 2: Excellent Assistance  
+Class 3: Poor Service  
+Class 4: Efficient Problem Solving  
+Class 5: Long Wait Time  
+Class 6: Prompt and Courteous Response  
+Class 7: Subscription Problem Resolution  
+Class 8: Lack of Knowledge  
+Class 9: Unhelpful and Rude Service  
+Class 10: Quick Issue Resolution  
+Class 11: Helpful Support

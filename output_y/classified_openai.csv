@@ -1,0 +1,948 @@
+Client_name,Team_name,Conversation_rating,ConversationRemark,AgentName,Title,cluster_n,openai_descr
+Jennifer Miller,Sales,3,"Friendly and efficient, problem solved!",Taylor,Question about Membership Benefits,3,Efficient Problem Solving  
+Jennifer Garcia,Support,4,"Friendly and efficient, problem solved!",Avery,Problem Accessing Premium Content,3,Efficient Problem Solving  
+John Smith,Sales,2,"Friendly and efficient, problem solved!",Taylor,Trouble with Video Upload,3,Efficient Problem Solving  
+Linda Wilson,Support,2,Impressed with the prompt response and courteous agent.,Morgan,Feedback on YouTube Music Service,5,Prompt and Courteous Response  
+Elizabeth Garcia,Sales,3,"Poor service, the agent was not helpful.",Parker,Issue with YouTube Subscription Renewal,2,Poor Service  
+Robert Miller,Support,1,Impressed with the prompt response and courteous agent.,Taylor,Account Suspension Inquiry,5,Prompt and Courteous Response  
+Elizabeth Wilson,Sales,3,Impressed with the prompt response and courteous agent.,Casey,Difficulty in Cancelling Subscription,5,Prompt and Courteous Response  
+Patricia Rodriguez,Sales,3,"Unhelpful and rude service, very disappointed.",Robin,Issue with YouTube Subscription Renewal,8,Unhelpful and Rude Service  
+James Johnson,Support,3,Impressed with the prompt response and courteous agent.,Jamie,Trouble with Video Upload,5,Prompt and Courteous Response  
+Patricia Miller,Support,1,"Unhelpful and rude service, very disappointed.",Jamie,Account Suspension Inquiry,8,Unhelpful and Rude Service  
+Mary Garcia,Sales,3,"Not satisfied, my issue is still unresolved.",Parker,Billing Discrepancy in Subscription,0,Unresolved Issue  
+James Brown,Sales,2,"Very helpful support, resolved my issue quickly!",Taylor,Trouble with Video Upload,9,Quick Issue Resolution  
+Michael Miller,Support,4,"Great service, my subscription problem was solved in no time.",Taylor,Feedback on YouTube Music Service,6,Subscription Problem Resolution  
+Robert Brown,Sales,4,"Waited too long for a response, very frustrating.",Riley,Feedback on YouTube Music Service,4,Long Wait Time  
+Mary Jones,Sales,1,Agent lacked knowledge about YouTube subscriptions.,Morgan,Technical Glitch during Video Playback,7,Lack of Knowledge  
+John Garcia,Support,5,"Great service, my subscription problem was solved in no time.",Casey,Technical Glitch during Video Playback,6,Subscription Problem Resolution  
+Mary Johnson,Sales,3,Impressed with the prompt response and courteous agent.,Riley,Feedback on YouTube Music Service,5,Prompt and Courteous Response  
+Jennifer Johnson,Sales,1,"Great service, my subscription problem was solved in no time.",Riley,Issue with YouTube Subscription Renewal,6,Subscription Problem Resolution  
+Elizabeth Davis,Support,3,"Not satisfied, my issue is still unresolved.",Taylor,Difficulty in Cancelling Subscription,0,Unresolved Issue  
+James Garcia,Support,3,"Waited too long for a response, very frustrating.",Jordan,Issue with YouTube Subscription Renewal,4,Long Wait Time  
+Mary Wilson,Sales,1,"Excellent assistance, very patient and informative.",Avery,Question about Membership Benefits,1,Excellent Assistance  
+Elizabeth Smith,Support,2,"Poor service, the agent was not helpful.",Taylor,Trouble with Video Upload,2,Poor Service  
+Michael Garcia,Sales,4,"Excellent assistance, very patient and informative.",Riley,Question about Membership Benefits,1,Excellent Assistance  
+James Davis,Support,5,"Not satisfied, my issue is still unresolved.",Parker,Difficulty in Cancelling Subscription,0,Unresolved Issue  
+John Garcia,Support,5,"Very helpful support, resolved my issue quickly!",Taylor,Technical Glitch during Video Playback,10,Helpful Support
+James Garcia,Sales,5,"Not satisfied, my issue is still unresolved.",Jordan,Trouble with Video Upload,0,Unresolved Issue  
+William Garcia,Sales,5,"Not satisfied, my issue is still unresolved.",Taylor,Account Suspension Inquiry,0,Unresolved Issue  
+James Rodriguez,Sales,2,"Unhelpful and rude service, very disappointed.",Casey,Billing Discrepancy in Subscription,8,Unhelpful and Rude Service  
+Linda Johnson,Sales,5,Agent lacked knowledge about YouTube subscriptions.,Jordan,Issue with YouTube Subscription Renewal,7,Lack of Knowledge  
+James Smith,Sales,4,"Very helpful support, resolved my issue quickly!",Riley,Account Suspension Inquiry,10,Helpful Support
+Jennifer Davis,Sales,2,"Great service, my subscription problem was solved in no time.",Parker,Billing Discrepancy in Subscription,6,Subscription Problem Resolution  
+Jennifer Brown,Support,5,Impressed with the prompt response and courteous agent.,Avery,Problem Accessing Premium Content,5,Prompt and Courteous Response  
+James Davis,Sales,1,"Friendly and efficient, problem solved!",Robin,Question about Membership Benefits,3,Efficient Problem Solving  
+Linda Brown,Support,1,"Waited too long for a response, very frustrating.",Parker,Issue with YouTube Subscription Renewal,4,Long Wait Time  
+Robert Wilson,Support,2,"Excellent assistance, very patient and informative.",Jordan,Account Suspension Inquiry,1,Excellent Assistance  
+Michael Smith,Support,4,Agent lacked knowledge about YouTube subscriptions.,Taylor,Trouble with Video Upload,7,Lack of Knowledge  
+William Williams,Sales,1,"Excellent assistance, very patient and informative.",Morgan,Issue with YouTube Subscription Renewal,1,Excellent Assistance  
+James Williams,Sales,1,Impressed with the prompt response and courteous agent.,Morgan,Account Suspension Inquiry,5,Prompt and Courteous Response  
+James Garcia,Sales,5,Impressed with the prompt response and courteous agent.,Alex,Billing Discrepancy in Subscription,5,Prompt and Courteous Response  
+William Smith,Sales,2,"Excellent assistance, very patient and informative.",Robin,Issue with YouTube Subscription Renewal,1,Excellent Assistance  
+Patricia Rodriguez,Sales,1,"Waited too long for a response, very frustrating.",Jordan,Trouble with Video Upload,4,Long Wait Time  
+James Johnson,Sales,1,"Very helpful support, resolved my issue quickly!",Jordan,Technical Glitch during Video Playback,9,Quick Issue Resolution  
+Linda Rodriguez,Support,2,Agent lacked knowledge about YouTube subscriptions.,Alex,Problem Accessing Premium Content,7,Lack of Knowledge  
+Robert Garcia,Sales,3,"Waited too long for a response, very frustrating.",Alex,Feedback on YouTube Music Service,4,Long Wait Time  
+Robert Davis,Support,2,"Unhelpful and rude service, very disappointed.",Alex,Query about Family Plan,8,Unhelpful and Rude Service  
+Robert Jones,Sales,5,"Unhelpful and rude service, very disappointed.",Morgan,Billing Discrepancy in Subscription,8,Unhelpful and Rude Service  
+John Williams,Sales,4,"Waited too long for a response, very frustrating.",Taylor,Question about Membership Benefits,4,Long Wait Time  
+Patricia Smith,Support,3,Agent lacked knowledge about YouTube subscriptions.,Avery,Problem Accessing Premium Content,7,Lack of Knowledge  
+Mary Williams,Sales,3,Impressed with the prompt response and courteous agent.,Avery,Feedback on YouTube Music Service,5,Prompt and Courteous Response  
+Michael Smith,Sales,5,"Waited too long for a response, very frustrating.",Jamie,Question about Membership Benefits,4,Long Wait Time  
+James Smith,Support,1,"Excellent assistance, very patient and informative.",Taylor,Issue with YouTube Subscription Renewal,1,Excellent Assistance  
+Michael Miller,Sales,3,"Very helpful support, resolved my issue quickly!",Avery,Technical Glitch during Video Playback,10,Helpful Support
+Mary Davis,Support,5,Agent lacked knowledge about YouTube subscriptions.,Jordan,Question about Membership Benefits,7,Lack of Knowledge  
+Jennifer Smith,Support,4,"Excellent assistance, very patient and informative.",Parker,Problem Accessing Premium Content,1,Excellent Assistance  
+Elizabeth Miller,Sales,3,"Excellent assistance, very patient and informative.",Morgan,Question about Membership Benefits,1,Excellent Assistance  
+Michael Davis,Support,2,"Unhelpful and rude service, very disappointed.",Avery,Issue with YouTube Subscription Renewal,8,Unhelpful and Rude Service  
+Patricia Smith,Support,4,"Friendly and efficient, problem solved!",Jordan,Feedback on YouTube Music Service,3,Efficient Problem Solving  
+James Wilson,Sales,1,"Very helpful support, resolved my issue quickly!",Jordan,Feedback on YouTube Music Service,10,Helpful Support
+Michael Miller,Sales,5,"Poor service, the agent was not helpful.",Parker,Technical Glitch during Video Playback,2,Poor Service  
+William Smith,Support,2,Impressed with the prompt response and courteous agent.,Avery,Query about Family Plan,5,Prompt and Courteous Response  
+John Johnson,Support,1,"Unhelpful and rude service, very disappointed.",Parker,Trouble with Video Upload,8,Unhelpful and Rude Service  
+Linda Johnson,Support,4,"Excellent assistance, very patient and informative.",Taylor,Feedback on YouTube Music Service,1,Excellent Assistance  
+Robert Jones,Sales,1,"Very helpful support, resolved my issue quickly!",Alex,Account Suspension Inquiry,10,Helpful Support
+Michael Rodriguez,Support,4,"Waited too long for a response, very frustrating.",Alex,Billing Discrepancy in Subscription,4,Long Wait Time  
+John Garcia,Support,4,"Poor service, the agent was not helpful.",Parker,Query about Family Plan,2,Poor Service  
+Mary Smith,Support,3,"Great service, my subscription problem was solved in no time.",Alex,Query about Family Plan,6,Subscription Problem Resolution  
+William Miller,Support,3,"Great service, my subscription problem was solved in no time.",Parker,Question about Membership Benefits,6,Subscription Problem Resolution  
+Jennifer Smith,Sales,2,"Unhelpful and rude service, very disappointed.",Parker,Question about Membership Benefits,8,Unhelpful and Rude Service  
+Linda Miller,Sales,3,Agent lacked knowledge about YouTube subscriptions.,Robin,Question about Membership Benefits,7,Lack of Knowledge  
+Michael Williams,Support,4,"Friendly and efficient, problem solved!",Jamie,Account Suspension Inquiry,3,Efficient Problem Solving  
+Michael Rodriguez,Support,4,"Excellent assistance, very patient and informative.",Alex,Billing Discrepancy in Subscription,1,Excellent Assistance  
+Linda Jones,Support,3,"Excellent assistance, very patient and informative.",Casey,Query about Family Plan,1,Excellent Assistance  
+Elizabeth Rodriguez,Support,5,"Excellent assistance, very patient and informative.",Alex,Problem Accessing Premium Content,1,Excellent Assistance  
+Mary Williams,Support,2,"Not satisfied, my issue is still unresolved.",Avery,Issue with YouTube Subscription Renewal,0,Unresolved Issue  
+John Johnson,Sales,5,"Excellent assistance, very patient and informative.",Parker,Difficulty in Cancelling Subscription,1,Excellent Assistance  
+Robert Williams,Support,2,"Excellent assistance, very patient and informative.",Taylor,Query about Family Plan,1,Excellent Assistance  
+James Johnson,Support,2,Impressed with the prompt response and courteous agent.,Morgan,Trouble with Video Upload,5,Prompt and Courteous Response  
+William Smith,Sales,3,"Excellent assistance, very patient and informative.",Jamie,Difficulty in Cancelling Subscription,1,Excellent Assistance  
+Jennifer Rodriguez,Support,2,Impressed with the prompt response and courteous agent.,Alex,Difficulty in Cancelling Subscription,5,Prompt and Courteous Response  
+Michael Wilson,Sales,3,"Great service, my subscription problem was solved in no time.",Avery,Question about Membership Benefits,6,Subscription Problem Resolution  
+Linda Jones,Sales,2,"Excellent assistance, very patient and informative.",Jamie,Question about Membership Benefits,1,Excellent Assistance  
+Elizabeth Rodriguez,Sales,3,Impressed with the prompt response and courteous agent.,Jamie,Issue with YouTube Subscription Renewal,5,Prompt and Courteous Response  
+Robert Brown,Support,4,"Great service, my subscription problem was solved in no time.",Robin,Question about Membership Benefits,6,Subscription Problem Resolution  
+Mary Garcia,Support,5,"Poor service, the agent was not helpful.",Morgan,Billing Discrepancy in Subscription,2,Poor Service  
+Elizabeth Davis,Support,4,"Unhelpful and rude service, very disappointed.",Casey,Billing Discrepancy in Subscription,8,Unhelpful and Rude Service  
+Elizabeth Williams,Sales,5,"Friendly and efficient, problem solved!",Morgan,Issue with YouTube Subscription Renewal,3,Efficient Problem Solving  
+Patricia Davis,Support,4,"Excellent assistance, very patient and informative.",Riley,Question about Membership Benefits,1,Excellent Assistance  
+William Miller,Support,4,"Great service, my subscription problem was solved in no time.",Avery,Question about Membership Benefits,6,Subscription Problem Resolution  
+Elizabeth Smith,Sales,5,"Friendly and efficient, problem solved!",Robin,Question about Membership Benefits,3,Efficient Problem Solving  
+Patricia Wilson,Support,3,"Waited too long for a response, very frustrating.",Casey,Issue with YouTube Subscription Renewal,4,Long Wait Time  
+Jennifer Wilson,Support,2,"Excellent assistance, very patient and informative.",Jordan,Difficulty in Cancelling Subscription,1,Excellent Assistance  
+Mary Jones,Sales,5,"Very helpful support, resolved my issue quickly!",Taylor,Account Suspension Inquiry,10,Helpful Support
+Patricia Johnson,Sales,4,"Great service, my subscription problem was solved in no time.",Jamie,Account Suspension Inquiry,6,Subscription Problem Resolution  
+Michael Miller,Support,5,Agent lacked knowledge about YouTube subscriptions.,Alex,Technical Glitch during Video Playback,7,Lack of Knowledge  
+Elizabeth Jones,Sales,4,"Unhelpful and rude service, very disappointed.",Casey,Account Suspension Inquiry,8,Unhelpful and Rude Service  
+William Smith,Support,5,"Very helpful support, resolved my issue quickly!",Jordan,Technical Glitch during Video Playback,9,Quick Issue Resolution  
+John Williams,Sales,5,Agent lacked knowledge about YouTube subscriptions.,Morgan,Account Suspension Inquiry,7,Lack of Knowledge  
+Patricia Johnson,Support,2,"Friendly and efficient, problem solved!",Taylor,Problem Accessing Premium Content,3,Efficient Problem Solving  
+Jennifer Johnson,Support,5,"Waited too long for a response, very frustrating.",Jordan,Question about Membership Benefits,4,Long Wait Time  
+Linda Williams,Support,2,"Excellent assistance, very patient and informative.",Morgan,Trouble with Video Upload,1,Excellent Assistance  
+Robert Davis,Support,3,"Not satisfied, my issue is still unresolved.",Jamie,Query about Family Plan,0,Unresolved Issue  
+Mary Garcia,Sales,5,"Excellent assistance, very patient and informative.",Parker,Feedback on YouTube Music Service,1,Excellent Assistance  
+William Brown,Support,3,"Waited too long for a response, very frustrating.",Alex,Question about Membership Benefits,4,Long Wait Time  
+Linda Miller,Support,3,"Very helpful support, resolved my issue quickly!",Robin,Query about Family Plan,9,Quick Issue Resolution  
+Mary Brown,Sales,5,Agent lacked knowledge about YouTube subscriptions.,Taylor,Query about Family Plan,7,Lack of Knowledge  
+Jennifer Rodriguez,Sales,3,"Waited too long for a response, very frustrating.",Casey,Trouble with Video Upload,4,Long Wait Time  
+Robert Johnson,Support,5,"Friendly and efficient, problem solved!",Robin,Query about Family Plan,3,Efficient Problem Solving  
+Jennifer Johnson,Sales,1,"Not satisfied, my issue is still unresolved.",Parker,Problem Accessing Premium Content,0,Unresolved Issue  
+William Brown,Sales,4,"Unhelpful and rude service, very disappointed.",Jamie,Query about Family Plan,8,Unhelpful and Rude Service  
+William Garcia,Support,5,"Very helpful support, resolved my issue quickly!",Alex,Technical Glitch during Video Playback,9,Quick Issue Resolution  
+James Garcia,Sales,1,"Very helpful support, resolved my issue quickly!",Robin,Issue with YouTube Subscription Renewal,9,Quick Issue Resolution  
+Elizabeth Johnson,Sales,1,"Waited too long for a response, very frustrating.",Riley,Feedback on YouTube Music Service,4,Long Wait Time  
+William Johnson,Support,5,"Unhelpful and rude service, very disappointed.",Alex,Issue with YouTube Subscription Renewal,8,Unhelpful and Rude Service  
+Mary Jones,Support,4,Impressed with the prompt response and courteous agent.,Jordan,Problem Accessing Premium Content,5,Prompt and Courteous Response  
+Linda Brown,Sales,4,"Poor service, the agent was not helpful.",Parker,Difficulty in Cancelling Subscription,2,Poor Service  
+Elizabeth Miller,Support,1,"Great service, my subscription problem was solved in no time.",Alex,Technical Glitch during Video Playback,6,Subscription Problem Resolution  
+Robert Smith,Support,1,"Waited too long for a response, very frustrating.",Taylor,Feedback on YouTube Music Service,4,Long Wait Time  
+Jennifer Wilson,Support,1,Agent lacked knowledge about YouTube subscriptions.,Casey,Billing Discrepancy in Subscription,7,Lack of Knowledge  
+Mary Johnson,Sales,2,"Unhelpful and rude service, very disappointed.",Jordan,Question about Membership Benefits,8,Unhelpful and Rude Service  
+Michael Jones,Support,3,"Excellent assistance, very patient and informative.",Taylor,Billing Discrepancy in Subscription,1,Excellent Assistance  
+Michael Wilson,Support,1,Impressed with the prompt response and courteous agent.,Jordan,Billing Discrepancy in Subscription,5,Prompt and Courteous Response  
+Michael Williams,Sales,3,"Unhelpful and rude service, very disappointed.",Taylor,Account Suspension Inquiry,8,Unhelpful and Rude Service  
+Michael Johnson,Support,5,"Excellent assistance, very patient and informative.",Taylor,Technical Glitch during Video Playback,1,Excellent Assistance  
+William Jones,Support,2,"Great service, my subscription problem was solved in no time.",Taylor,Question about Membership Benefits,6,Subscription Problem Resolution  
+Robert Garcia,Sales,4,Impressed with the prompt response and courteous agent.,Avery,Account Suspension Inquiry,5,Prompt and Courteous Response  
+Patricia Rodriguez,Sales,5,"Great service, my subscription problem was solved in no time.",Alex,Query about Family Plan,6,Subscription Problem Resolution  
+Robert Davis,Support,4,"Waited too long for a response, very frustrating.",Morgan,Question about Membership Benefits,4,Long Wait Time  
+James Jones,Support,5,"Excellent assistance, very patient and informative.",Taylor,Account Suspension Inquiry,1,Excellent Assistance  
+Michael Miller,Sales,3,"Waited too long for a response, very frustrating.",Jordan,Problem Accessing Premium Content,4,Long Wait Time  
+Michael Rodriguez,Sales,5,"Very helpful support, resolved my issue quickly!",Morgan,Account Suspension Inquiry,9,Quick Issue Resolution  
+John Brown,Sales,2,"Excellent assistance, very patient and informative.",Parker,Billing Discrepancy in Subscription,1,Excellent Assistance  
+Robert Rodriguez,Support,2,"Very helpful support, resolved my issue quickly!",Riley,Trouble with Video Upload,9,Quick Issue Resolution  
+Michael Rodriguez,Support,1,Impressed with the prompt response and courteous agent.,Parker,Issue with YouTube Subscription Renewal,5,Prompt and Courteous Response  
+James Brown,Support,1,"Friendly and efficient, problem solved!",Parker,Feedback on YouTube Music Service,3,Efficient Problem Solving  
+Mary Jones,Sales,5,"Friendly and efficient, problem solved!",Taylor,Query about Family Plan,3,Efficient Problem Solving  
+Michael Williams,Support,3,"Excellent assistance, very patient and informative.",Jamie,Difficulty in Cancelling Subscription,1,Excellent Assistance  
+Patricia Jones,Support,1,"Waited too long for a response, very frustrating.",Jordan,Billing Discrepancy in Subscription,4,Long Wait Time  
+Jennifer Garcia,Support,4,"Great service, my subscription problem was solved in no time.",Morgan,Difficulty in Cancelling Subscription,6,Subscription Problem Resolution  
+Mary Brown,Sales,5,"Excellent assistance, very patient and informative.",Taylor,Question about Membership Benefits,1,Excellent Assistance  
+Mary Miller,Support,4,"Very helpful support, resolved my issue quickly!",Alex,Technical Glitch during Video Playback,10,Helpful Support
+John Brown,Sales,1,"Poor service, the agent was not helpful.",Morgan,Query about Family Plan,2,Poor Service  
+Patricia Rodriguez,Sales,5,Impressed with the prompt response and courteous agent.,Riley,Difficulty in Cancelling Subscription,5,Prompt and Courteous Response  
+Mary Rodriguez,Support,3,"Poor service, the agent was not helpful.",Jordan,Technical Glitch during Video Playback,2,Poor Service  
+Elizabeth Miller,Support,4,"Excellent assistance, very patient and informative.",Avery,Technical Glitch during Video Playback,1,Excellent Assistance  
+Patricia Smith,Sales,4,"Not satisfied, my issue is still unresolved.",Morgan,Issue with YouTube Subscription Renewal,0,Unresolved Issue  
+Elizabeth Johnson,Sales,3,"Very helpful support, resolved my issue quickly!",Avery,Account Suspension Inquiry,10,Helpful Support
+John Brown,Sales,2,"Not satisfied, my issue is still unresolved.",Morgan,Question about Membership Benefits,0,Unresolved Issue  
+Mary Garcia,Support,5,"Very helpful support, resolved my issue quickly!",Morgan,Feedback on YouTube Music Service,10,Helpful Support
+Linda Miller,Support,1,"Waited too long for a response, very frustrating.",Riley,Difficulty in Cancelling Subscription,4,Long Wait Time  
+Michael Smith,Sales,1,"Not satisfied, my issue is still unresolved.",Taylor,Query about Family Plan,0,Unresolved Issue  
+John Brown,Sales,5,Agent lacked knowledge about YouTube subscriptions.,Avery,Query about Family Plan,7,Lack of Knowledge  
+Patricia Brown,Support,3,"Not satisfied, my issue is still unresolved.",Riley,Account Suspension Inquiry,0,Unresolved Issue  
+Michael Jones,Support,4,"Great service, my subscription problem was solved in no time.",Casey,Technical Glitch during Video Playback,6,Subscription Problem Resolution  
+Robert Brown,Sales,2,"Great service, my subscription problem was solved in no time.",Riley,Problem Accessing Premium Content,6,Subscription Problem Resolution  
+James Johnson,Sales,3,"Not satisfied, my issue is still unresolved.",Robin,Trouble with Video Upload,0,Unresolved Issue  
+Michael Smith,Sales,5,Impressed with the prompt response and courteous agent.,Riley,Difficulty in Cancelling Subscription,5,Prompt and Courteous Response  
+Jennifer Johnson,Support,2,Agent lacked knowledge about YouTube subscriptions.,Parker,Trouble with Video Upload,7,Lack of Knowledge  
+John Brown,Sales,2,"Poor service, the agent was not helpful.",Robin,Billing Discrepancy in Subscription,2,Poor Service  
+Linda Davis,Support,1,Agent lacked knowledge about YouTube subscriptions.,Casey,Problem Accessing Premium Content,7,Lack of Knowledge  
+Robert Davis,Support,5,"Unhelpful and rude service, very disappointed.",Jamie,Technical Glitch during Video Playback,8,Unhelpful and Rude Service  
+John Davis,Sales,4,"Poor service, the agent was not helpful.",Riley,Difficulty in Cancelling Subscription,2,Poor Service  
+Mary Rodriguez,Sales,3,"Friendly and efficient, problem solved!",Robin,Difficulty in Cancelling Subscription,3,Efficient Problem Solving  
+Jennifer Jones,Support,2,"Excellent assistance, very patient and informative.",Jordan,Issue with YouTube Subscription Renewal,1,Excellent Assistance  
+Michael Jones,Sales,3,Impressed with the prompt response and courteous agent.,Jordan,Problem Accessing Premium Content,5,Prompt and Courteous Response  
+Linda Williams,Sales,2,"Unhelpful and rude service, very disappointed.",Jamie,Account Suspension Inquiry,8,Unhelpful and Rude Service  
+James Davis,Support,2,Impressed with the prompt response and courteous agent.,Parker,Difficulty in Cancelling Subscription,5,Prompt and Courteous Response  
+Mary Garcia,Support,3,"Great service, my subscription problem was solved in no time.",Alex,Feedback on YouTube Music Service,6,Subscription Problem Resolution  
+Mary Davis,Support,1,"Very helpful support, resolved my issue quickly!",Robin,Technical Glitch during Video Playback,10,Helpful Support
+Linda Jones,Sales,2,"Very helpful support, resolved my issue quickly!",Alex,Feedback on YouTube Music Service,10,Helpful Support
+Mary Rodriguez,Sales,1,"Friendly and efficient, problem solved!",Casey,Problem Accessing Premium Content,3,Efficient Problem Solving  
+Mary Brown,Support,2,"Not satisfied, my issue is still unresolved.",Jamie,Trouble with Video Upload,0,Unresolved Issue  
+Robert Johnson,Sales,2,"Excellent assistance, very patient and informative.",Riley,Account Suspension Inquiry,1,Excellent Assistance  
+Jennifer Williams,Sales,1,"Friendly and efficient, problem solved!",Jamie,Billing Discrepancy in Subscription,3,Efficient Problem Solving  
+William Wilson,Support,2,"Great service, my subscription problem was solved in no time.",Robin,Difficulty in Cancelling Subscription,6,Subscription Problem Resolution  
+William Garcia,Sales,3,"Very helpful support, resolved my issue quickly!",Morgan,Feedback on YouTube Music Service,9,Quick Issue Resolution  
+James Jones,Support,5,"Very helpful support, resolved my issue quickly!",Morgan,Problem Accessing Premium Content,9,Quick Issue Resolution  
+Mary Jones,Sales,4,"Poor service, the agent was not helpful.",Casey,Issue with YouTube Subscription Renewal,2,Poor Service  
+William Miller,Sales,1,"Excellent assistance, very patient and informative.",Jordan,Issue with YouTube Subscription Renewal,1,Excellent Assistance  
+William Davis,Sales,4,"Not satisfied, my issue is still unresolved.",Casey,Problem Accessing Premium Content,0,Unresolved Issue  
+Patricia Garcia,Sales,5,"Excellent assistance, very patient and informative.",Taylor,Problem Accessing Premium Content,1,Excellent Assistance  
+Robert Rodriguez,Sales,1,Agent lacked knowledge about YouTube subscriptions.,Jamie,Problem Accessing Premium Content,7,Lack of Knowledge  
+Patricia Brown,Sales,1,"Not satisfied, my issue is still unresolved.",Taylor,Query about Family Plan,0,Unresolved Issue  
+Jennifer Johnson,Sales,3,Impressed with the prompt response and courteous agent.,Jordan,Trouble with Video Upload,5,Prompt and Courteous Response  
+Mary Smith,Sales,5,Agent lacked knowledge about YouTube subscriptions.,Parker,Billing Discrepancy in Subscription,7,Lack of Knowledge  
+John Miller,Support,3,"Excellent assistance, very patient and informative.",Jamie,Technical Glitch during Video Playback,1,Excellent Assistance  
+James Smith,Support,2,"Very helpful support, resolved my issue quickly!",Robin,Feedback on YouTube Music Service,9,Quick Issue Resolution  
+James Garcia,Sales,4,"Great service, my subscription problem was solved in no time.",Riley,Billing Discrepancy in Subscription,6,Subscription Problem Resolution  
+John Wilson,Sales,2,"Not satisfied, my issue is still unresolved.",Morgan,Billing Discrepancy in Subscription,0,Unresolved Issue  
+James Brown,Support,5,"Great service, my subscription problem was solved in no time.",Robin,Account Suspension Inquiry,6,Subscription Problem Resolution  
+Michael Brown,Support,5,"Excellent assistance, very patient and informative.",Taylor,Billing Discrepancy in Subscription,1,Excellent Assistance  
+Patricia Johnson,Support,3,"Unhelpful and rude service, very disappointed.",Jordan,Problem Accessing Premium Content,8,Unhelpful and Rude Service  
+Michael Jones,Sales,5,"Unhelpful and rude service, very disappointed.",Jordan,Trouble with Video Upload,8,Unhelpful and Rude Service  
+James Johnson,Sales,5,"Friendly and efficient, problem solved!",Jamie,Account Suspension Inquiry,3,Efficient Problem Solving  
+Elizabeth Jones,Support,4,"Excellent assistance, very patient and informative.",Casey,Feedback on YouTube Music Service,1,Excellent Assistance  
+Mary Williams,Support,3,"Very helpful support, resolved my issue quickly!",Riley,Problem Accessing Premium Content,9,Quick Issue Resolution  
+Patricia Garcia,Support,4,"Friendly and efficient, problem solved!",Alex,Question about Membership Benefits,3,Efficient Problem Solving  
+Michael Smith,Sales,2,"Poor service, the agent was not helpful.",Jamie,Issue with YouTube Subscription Renewal,2,Poor Service  
+Elizabeth Smith,Sales,4,"Great service, my subscription problem was solved in no time.",Alex,Problem Accessing Premium Content,6,Subscription Problem Resolution  
+William Miller,Support,1,Impressed with the prompt response and courteous agent.,Riley,Difficulty in Cancelling Subscription,5,Prompt and Courteous Response  
+Mary Garcia,Sales,4,"Waited too long for a response, very frustrating.",Avery,Question about Membership Benefits,4,Long Wait Time  
+Patricia Wilson,Sales,3,"Waited too long for a response, very frustrating.",Jordan,Problem Accessing Premium Content,4,Long Wait Time  
+Elizabeth Miller,Support,4,Agent lacked knowledge about YouTube subscriptions.,Casey,Issue with YouTube Subscription Renewal,7,Lack of Knowledge  
+Patricia Johnson,Sales,1,"Unhelpful and rude service, very disappointed.",Alex,Query about Family Plan,8,Unhelpful and Rude Service  
+Linda Johnson,Support,3,Impressed with the prompt response and courteous agent.,Jordan,Billing Discrepancy in Subscription,5,Prompt and Courteous Response  
+Linda Wilson,Sales,3,"Very helpful support, resolved my issue quickly!",Morgan,Trouble with Video Upload,9,Quick Issue Resolution  
+Robert Jones,Support,5,"Friendly and efficient, problem solved!",Taylor,Feedback on YouTube Music Service,3,Efficient Problem Solving  
+Jennifer Rodriguez,Sales,1,"Unhelpful and rude service, very disappointed.",Robin,Billing Discrepancy in Subscription,8,Unhelpful and Rude Service  
+James Garcia,Support,4,"Excellent assistance, very patient and informative.",Riley,Billing Discrepancy in Subscription,1,Excellent Assistance  
+Jennifer Rodriguez,Support,2,"Very helpful support, resolved my issue quickly!",Robin,Account Suspension Inquiry,10,Helpful Support
+Elizabeth Smith,Support,4,"Not satisfied, my issue is still unresolved.",Jamie,Difficulty in Cancelling Subscription,0,Unresolved Issue  
+Elizabeth Wilson,Support,3,"Very helpful support, resolved my issue quickly!",Parker,Issue with YouTube Subscription Renewal,10,Helpful Support
+James Wilson,Support,4,"Friendly and efficient, problem solved!",Jordan,Problem Accessing Premium Content,3,Efficient Problem Solving  
+Patricia Brown,Sales,2,"Not satisfied, my issue is still unresolved.",Morgan,Query about Family Plan,0,Unresolved Issue  
+James Davis,Support,1,"Great service, my subscription problem was solved in no time.",Jamie,Account Suspension Inquiry,6,Subscription Problem Resolution  
+Patricia Johnson,Support,3,Impressed with the prompt response and courteous agent.,Taylor,Problem Accessing Premium Content,5,Prompt and Courteous Response  
+Linda Rodriguez,Support,2,"Great service, my subscription problem was solved in no time.",Riley,Trouble with Video Upload,6,Subscription Problem Resolution  
+Patricia Johnson,Sales,3,"Friendly and efficient, problem solved!",Avery,Issue with YouTube Subscription Renewal,3,Efficient Problem Solving  
+James Davis,Support,4,"Friendly and efficient, problem solved!",Robin,Query about Family Plan,3,Efficient Problem Solving  
+Linda Miller,Sales,1,"Excellent assistance, very patient and informative.",Parker,Query about Family Plan,1,Excellent Assistance  
+Patricia Smith,Sales,2,"Excellent assistance, very patient and informative.",Parker,Issue with YouTube Subscription Renewal,1,Excellent Assistance  
+Mary Davis,Sales,2,Agent lacked knowledge about YouTube subscriptions.,Morgan,Query about Family Plan,7,Lack of Knowledge  
+James Smith,Sales,2,"Unhelpful and rude service, very disappointed.",Taylor,Billing Discrepancy in Subscription,8,Unhelpful and Rude Service  
+James Davis,Sales,4,"Great service, my subscription problem was solved in no time.",Jordan,Question about Membership Benefits,6,Subscription Problem Resolution  
+Mary Garcia,Sales,1,"Waited too long for a response, very frustrating.",Riley,Issue with YouTube Subscription Renewal,4,Long Wait Time  
+James Williams,Sales,5,"Waited too long for a response, very frustrating.",Jordan,Billing Discrepancy in Subscription,4,Long Wait Time  
+John Davis,Support,2,"Waited too long for a response, very frustrating.",Casey,Trouble with Video Upload,4,Long Wait Time  
+William Brown,Sales,4,"Poor service, the agent was not helpful.",Avery,Billing Discrepancy in Subscription,2,Poor Service  
+Mary Miller,Support,5,"Waited too long for a response, very frustrating.",Morgan,Account Suspension Inquiry,4,Long Wait Time  
+William Brown,Support,2,"Very helpful support, resolved my issue quickly!",Robin,Trouble with Video Upload,10,Helpful Support
+Patricia Wilson,Support,4,Impressed with the prompt response and courteous agent.,Avery,Feedback on YouTube Music Service,5,Prompt and Courteous Response  
+Robert Brown,Support,2,"Excellent assistance, very patient and informative.",Parker,Issue with YouTube Subscription Renewal,1,Excellent Assistance  
+Mary Williams,Sales,4,"Unhelpful and rude service, very disappointed.",Jamie,Query about Family Plan,8,Unhelpful and Rude Service  
+Robert Miller,Sales,1,"Not satisfied, my issue is still unresolved.",Jamie,Feedback on YouTube Music Service,0,Unresolved Issue  
+Patricia Miller,Support,3,"Excellent assistance, very patient and informative.",Jordan,Issue with YouTube Subscription Renewal,1,Excellent Assistance  
+Elizabeth Brown,Sales,5,"Unhelpful and rude service, very disappointed.",Robin,Query about Family Plan,8,Unhelpful and Rude Service  
+Elizabeth Garcia,Sales,5,"Not satisfied, my issue is still unresolved.",Avery,Problem Accessing Premium Content,0,Unresolved Issue  
+Elizabeth Williams,Support,3,"Excellent assistance, very patient and informative.",Morgan,Account Suspension Inquiry,1,Excellent Assistance  
+Elizabeth Williams,Support,2,"Poor service, the agent was not helpful.",Robin,Feedback on YouTube Music Service,2,Poor Service  
+Robert Wilson,Sales,4,"Unhelpful and rude service, very disappointed.",Riley,Problem Accessing Premium Content,8,Unhelpful and Rude Service  
+Patricia Jones,Sales,5,Impressed with the prompt response and courteous agent.,Avery,Feedback on YouTube Music Service,5,Prompt and Courteous Response  
+Elizabeth Brown,Sales,3,Agent lacked knowledge about YouTube subscriptions.,Casey,Difficulty in Cancelling Subscription,7,Lack of Knowledge  
+Elizabeth Rodriguez,Sales,3,"Very helpful support, resolved my issue quickly!",Riley,Feedback on YouTube Music Service,10,Helpful Support
+Patricia Garcia,Support,1,"Great service, my subscription problem was solved in no time.",Parker,Trouble with Video Upload,6,Subscription Problem Resolution  
+Linda Wilson,Sales,4,"Not satisfied, my issue is still unresolved.",Alex,Technical Glitch during Video Playback,0,Unresolved Issue  
+Linda Rodriguez,Sales,1,Impressed with the prompt response and courteous agent.,Parker,Question about Membership Benefits,5,Prompt and Courteous Response  
+Robert Brown,Support,5,"Great service, my subscription problem was solved in no time.",Parker,Account Suspension Inquiry,6,Subscription Problem Resolution  
+Robert Smith,Sales,1,"Poor service, the agent was not helpful.",Avery,Account Suspension Inquiry,2,Poor Service  
+Michael Williams,Support,4,"Very helpful support, resolved my issue quickly!",Alex,Account Suspension Inquiry,10,Helpful Support
+Jennifer Garcia,Support,4,"Excellent assistance, very patient and informative.",Jordan,Account Suspension Inquiry,1,Excellent Assistance  
+William Davis,Sales,4,"Excellent assistance, very patient and informative.",Taylor,Query about Family Plan,1,Excellent Assistance  
+John Miller,Sales,4,Agent lacked knowledge about YouTube subscriptions.,Parker,Difficulty in Cancelling Subscription,7,Lack of Knowledge  
+William Davis,Support,5,"Very helpful support, resolved my issue quickly!",Parker,Question about Membership Benefits,10,Helpful Support
+John Johnson,Support,3,"Great service, my subscription problem was solved in no time.",Jamie,Problem Accessing Premium Content,6,Subscription Problem Resolution  
+Mary Miller,Sales,5,"Excellent assistance, very patient and informative.",Jamie,Issue with YouTube Subscription Renewal,1,Excellent Assistance  
+Patricia Smith,Sales,5,"Poor service, the agent was not helpful.",Taylor,Trouble with Video Upload,2,Poor Service  
+Elizabeth Miller,Sales,3,Agent lacked knowledge about YouTube subscriptions.,Avery,Feedback on YouTube Music Service,7,Lack of Knowledge  
+Elizabeth Rodriguez,Support,1,Agent lacked knowledge about YouTube subscriptions.,Riley,Technical Glitch during Video Playback,7,Lack of Knowledge  
+Robert Johnson,Sales,4,"Not satisfied, my issue is still unresolved.",Alex,Technical Glitch during Video Playback,0,Unresolved Issue  
+Elizabeth Garcia,Support,1,Agent lacked knowledge about YouTube subscriptions.,Parker,Billing Discrepancy in Subscription,7,Lack of Knowledge  
+William Rodriguez,Support,2,"Not satisfied, my issue is still unresolved.",Parker,Difficulty in Cancelling Subscription,0,Unresolved Issue  
+Mary Brown,Sales,4,"Poor service, the agent was not helpful.",Taylor,Trouble with Video Upload,2,Poor Service  
+William Jones,Sales,2,"Waited too long for a response, very frustrating.",Morgan,Billing Discrepancy in Subscription,4,Long Wait Time  
+James Garcia,Sales,2,"Unhelpful and rude service, very disappointed.",Jamie,Problem Accessing Premium Content,8,Unhelpful and Rude Service  
+James Garcia,Support,3,"Very helpful support, resolved my issue quickly!",Jamie,Technical Glitch during Video Playback,10,Helpful Support
+John Johnson,Support,5,"Waited too long for a response, very frustrating.",Riley,Question about Membership Benefits,4,Long Wait Time  
+Jennifer Smith,Sales,2,"Not satisfied, my issue is still unresolved.",Riley,Billing Discrepancy in Subscription,0,Unresolved Issue  
+Michael Williams,Support,5,"Excellent assistance, very patient and informative.",Avery,Technical Glitch during Video Playback,1,Excellent Assistance  
+James Johnson,Sales,4,Agent lacked knowledge about YouTube subscriptions.,Jordan,Problem Accessing Premium Content,7,Lack of Knowledge  
+William Rodriguez,Support,5,"Waited too long for a response, very frustrating.",Taylor,Account Suspension Inquiry,4,Long Wait Time  
+Elizabeth Brown,Support,5,"Excellent assistance, very patient and informative.",Taylor,Feedback on YouTube Music Service,1,Excellent Assistance  
+John Johnson,Support,3,"Very helpful support, resolved my issue quickly!",Robin,Problem Accessing Premium Content,10,Helpful Support
+Robert Brown,Support,4,"Great service, my subscription problem was solved in no time.",Robin,Question about Membership Benefits,6,Subscription Problem Resolution  
+Linda Davis,Sales,1,"Waited too long for a response, very frustrating.",Taylor,Problem Accessing Premium Content,4,Long Wait Time  
+Jennifer Davis,Support,1,"Waited too long for a response, very frustrating.",Casey,Account Suspension Inquiry,4,Long Wait Time  
+Mary Miller,Sales,1,"Unhelpful and rude service, very disappointed.",Jordan,Account Suspension Inquiry,8,Unhelpful and Rude Service  
+Mary Wilson,Sales,3,"Friendly and efficient, problem solved!",Taylor,Difficulty in Cancelling Subscription,3,Efficient Problem Solving  
+Linda Rodriguez,Sales,2,"Waited too long for a response, very frustrating.",Jordan,Billing Discrepancy in Subscription,4,Long Wait Time  
+Jennifer Williams,Support,5,Agent lacked knowledge about YouTube subscriptions.,Parker,Account Suspension Inquiry,7,Lack of Knowledge  
+Patricia Davis,Sales,2,"Waited too long for a response, very frustrating.",Jamie,Problem Accessing Premium Content,4,Long Wait Time  
+Linda Wilson,Support,2,"Unhelpful and rude service, very disappointed.",Taylor,Billing Discrepancy in Subscription,8,Unhelpful and Rude Service  
+Robert Wilson,Sales,1,"Very helpful support, resolved my issue quickly!",Riley,Problem Accessing Premium Content,10,Helpful Support
+Jennifer Rodriguez,Sales,5,Agent lacked knowledge about YouTube subscriptions.,Morgan,Question about Membership Benefits,7,Lack of Knowledge  
+Patricia Williams,Support,1,"Very helpful support, resolved my issue quickly!",Morgan,Trouble with Video Upload,10,Helpful Support
+Patricia Brown,Sales,2,"Not satisfied, my issue is still unresolved.",Morgan,Issue with YouTube Subscription Renewal,0,Unresolved Issue  
+James Garcia,Sales,4,Impressed with the prompt response and courteous agent.,Avery,Difficulty in Cancelling Subscription,5,Prompt and Courteous Response  
+John Williams,Support,1,"Unhelpful and rude service, very disappointed.",Casey,Feedback on YouTube Music Service,8,Unhelpful and Rude Service  
+Mary Williams,Support,3,"Very helpful support, resolved my issue quickly!",Taylor,Technical Glitch during Video Playback,10,Helpful Support
+John Wilson,Support,2,"Unhelpful and rude service, very disappointed.",Taylor,Feedback on YouTube Music Service,8,Unhelpful and Rude Service  
+John Smith,Sales,4,"Poor service, the agent was not helpful.",Parker,Account Suspension Inquiry,2,Poor Service  
+James Miller,Support,1,Agent lacked knowledge about YouTube subscriptions.,Robin,Issue with YouTube Subscription Renewal,7,Lack of Knowledge  
+Michael Brown,Support,2,Impressed with the prompt response and courteous agent.,Taylor,Issue with YouTube Subscription Renewal,5,Prompt and Courteous Response  
+James Smith,Sales,5,"Very helpful support, resolved my issue quickly!",Jordan,Question about Membership Benefits,10,Helpful Support
+Robert Wilson,Sales,5,"Waited too long for a response, very frustrating.",Robin,Difficulty in Cancelling Subscription,4,Long Wait Time  
+Elizabeth Johnson,Support,1,Impressed with the prompt response and courteous agent.,Alex,Trouble with Video Upload,5,Prompt and Courteous Response  
+Patricia Wilson,Sales,3,"Poor service, the agent was not helpful.",Robin,Billing Discrepancy in Subscription,2,Poor Service  
+William Miller,Sales,4,"Friendly and efficient, problem solved!",Taylor,Feedback on YouTube Music Service,3,Efficient Problem Solving  
+Jennifer Miller,Sales,3,"Friendly and efficient, problem solved!",Casey,Difficulty in Cancelling Subscription,3,Efficient Problem Solving  
+Elizabeth Wilson,Sales,1,"Excellent assistance, very patient and informative.",Avery,Problem Accessing Premium Content,1,Excellent Assistance  
+John Garcia,Sales,2,"Very helpful support, resolved my issue quickly!",Jamie,Feedback on YouTube Music Service,10,Helpful Support
+Jennifer Wilson,Sales,5,"Waited too long for a response, very frustrating.",Jamie,Technical Glitch during Video Playback,4,Long Wait Time  
+Jennifer Rodriguez,Sales,1,"Waited too long for a response, very frustrating.",Jamie,Query about Family Plan,4,Long Wait Time  
+Elizabeth Garcia,Support,2,"Friendly and efficient, problem solved!",Robin,Feedback on YouTube Music Service,3,Efficient Problem Solving  
+Robert Williams,Support,1,"Very helpful support, resolved my issue quickly!",Alex,Feedback on YouTube Music Service,10,Helpful Support
+Jennifer Smith,Support,5,Agent lacked knowledge about YouTube subscriptions.,Morgan,Difficulty in Cancelling Subscription,7,Lack of Knowledge  
+Patricia Williams,Sales,4,"Not satisfied, my issue is still unresolved.",Jordan,Feedback on YouTube Music Service,0,Unresolved Issue  
+John Rodriguez,Support,2,"Waited too long for a response, very frustrating.",Riley,Query about Family Plan,4,Long Wait Time  
+Linda Garcia,Sales,5,"Waited too long for a response, very frustrating.",Jordan,Problem Accessing Premium Content,4,Long Wait Time  
+Linda Johnson,Sales,2,"Great service, my subscription problem was solved in no time.",Avery,Feedback on YouTube Music Service,6,Subscription Problem Resolution  
+John Williams,Sales,3,Agent lacked knowledge about YouTube subscriptions.,Riley,Question about Membership Benefits,7,Lack of Knowledge  
+Patricia Smith,Support,3,"Great service, my subscription problem was solved in no time.",Taylor,Billing Discrepancy in Subscription,6,Subscription Problem Resolution  
+Jennifer Williams,Support,2,"Very helpful support, resolved my issue quickly!",Avery,Issue with YouTube Subscription Renewal,10,Helpful Support
+Elizabeth Rodriguez,Support,5,"Excellent assistance, very patient and informative.",Parker,Account Suspension Inquiry,1,Excellent Assistance  
+Elizabeth Smith,Sales,1,"Waited too long for a response, very frustrating.",Casey,Difficulty in Cancelling Subscription,4,Long Wait Time  
+James Rodriguez,Sales,2,"Poor service, the agent was not helpful.",Parker,Billing Discrepancy in Subscription,2,Poor Service  
+James Miller,Support,2,"Very helpful support, resolved my issue quickly!",Alex,Issue with YouTube Subscription Renewal,10,Helpful Support
+Elizabeth Rodriguez,Sales,3,"Waited too long for a response, very frustrating.",Alex,Question about Membership Benefits,4,Long Wait Time  
+Mary Williams,Support,4,"Friendly and efficient, problem solved!",Robin,Billing Discrepancy in Subscription,3,Efficient Problem Solving  
+Elizabeth Johnson,Sales,3,"Not satisfied, my issue is still unresolved.",Jamie,Account Suspension Inquiry,0,Unresolved Issue  
+Linda Johnson,Support,5,"Friendly and efficient, problem solved!",Robin,Feedback on YouTube Music Service,3,Efficient Problem Solving  
+Linda Johnson,Support,3,"Waited too long for a response, very frustrating.",Avery,Problem Accessing Premium Content,4,Long Wait Time  
+William Jones,Sales,3,Agent lacked knowledge about YouTube subscriptions.,Casey,Difficulty in Cancelling Subscription,7,Lack of Knowledge  
+Linda Garcia,Sales,3,Impressed with the prompt response and courteous agent.,Parker,Feedback on YouTube Music Service,5,Prompt and Courteous Response  
+Patricia Wilson,Support,4,"Unhelpful and rude service, very disappointed.",Avery,Difficulty in Cancelling Subscription,8,Unhelpful and Rude Service  
+Robert Davis,Support,4,"Poor service, the agent was not helpful.",Jamie,Account Suspension Inquiry,2,Poor Service  
+Michael Rodriguez,Sales,1,"Waited too long for a response, very frustrating.",Avery,Query about Family Plan,4,Long Wait Time  
+Michael Miller,Sales,5,"Very helpful support, resolved my issue quickly!",Alex,Technical Glitch during Video Playback,10,Helpful Support
+Elizabeth Jones,Sales,2,"Not satisfied, my issue is still unresolved.",Jamie,Feedback on YouTube Music Service,0,Unresolved Issue  
+James Jones,Sales,3,Agent lacked knowledge about YouTube subscriptions.,Taylor,Query about Family Plan,7,Lack of Knowledge  
+Linda Wilson,Support,5,"Very helpful support, resolved my issue quickly!",Riley,Feedback on YouTube Music Service,10,Helpful Support
+Jennifer Smith,Sales,2,Agent lacked knowledge about YouTube subscriptions.,Casey,Query about Family Plan,7,Lack of Knowledge  
+Jennifer Miller,Support,1,"Unhelpful and rude service, very disappointed.",Casey,Question about Membership Benefits,8,Unhelpful and Rude Service  
+Robert Smith,Support,3,"Excellent assistance, very patient and informative.",Morgan,Issue with YouTube Subscription Renewal,1,Excellent Assistance  
+Linda Smith,Sales,1,Impressed with the prompt response and courteous agent.,Robin,Problem Accessing Premium Content,5,Prompt and Courteous Response  
+John Wilson,Sales,1,"Poor service, the agent was not helpful.",Casey,Feedback on YouTube Music Service,2,Poor Service  
+Michael Miller,Support,3,"Very helpful support, resolved my issue quickly!",Jamie,Billing Discrepancy in Subscription,10,Helpful Support
+Mary Williams,Support,5,"Unhelpful and rude service, very disappointed.",Alex,Feedback on YouTube Music Service,8,Unhelpful and Rude Service  
+Elizabeth Jones,Support,1,"Friendly and efficient, problem solved!",Robin,Account Suspension Inquiry,3,Efficient Problem Solving  
+John Johnson,Support,2,"Not satisfied, my issue is still unresolved.",Riley,Query about Family Plan,0,Unresolved Issue  
+John Jones,Sales,4,"Not satisfied, my issue is still unresolved.",Morgan,Trouble with Video Upload,0,Unresolved Issue  
+Robert Smith,Sales,5,"Excellent assistance, very patient and informative.",Parker,Difficulty in Cancelling Subscription,1,Excellent Assistance  
+Jennifer Williams,Support,3,"Excellent assistance, very patient and informative.",Robin,Billing Discrepancy in Subscription,1,Excellent Assistance  
+Linda Brown,Support,2,Agent lacked knowledge about YouTube subscriptions.,Jordan,Billing Discrepancy in Subscription,7,Lack of Knowledge  
+Elizabeth Jones,Support,3,"Poor service, the agent was not helpful.",Taylor,Account Suspension Inquiry,2,Poor Service  
+Elizabeth Davis,Sales,2,Impressed with the prompt response and courteous agent.,Riley,Issue with YouTube Subscription Renewal,5,Prompt and Courteous Response  
+Robert Jones,Sales,3,Agent lacked knowledge about YouTube subscriptions.,Alex,Issue with YouTube Subscription Renewal,7,Lack of Knowledge  
+Michael Jones,Sales,5,"Very helpful support, resolved my issue quickly!",Taylor,Billing Discrepancy in Subscription,10,Helpful Support
+Patricia Rodriguez,Support,1,"Great service, my subscription problem was solved in no time.",Avery,Issue with YouTube Subscription Renewal,6,Subscription Problem Resolution  
+Patricia Rodriguez,Support,1,"Waited too long for a response, very frustrating.",Taylor,Difficulty in Cancelling Subscription,4,Long Wait Time  
+Jennifer Brown,Support,2,Impressed with the prompt response and courteous agent.,Riley,Issue with YouTube Subscription Renewal,5,Prompt and Courteous Response  
+Elizabeth Rodriguez,Support,2,"Friendly and efficient, problem solved!",Jamie,Billing Discrepancy in Subscription,3,Efficient Problem Solving  
+Patricia Miller,Support,3,"Very helpful support, resolved my issue quickly!",Jordan,Trouble with Video Upload,10,Helpful Support
+Mary Wilson,Sales,3,"Waited too long for a response, very frustrating.",Morgan,Question about Membership Benefits,4,Long Wait Time  
+Patricia Davis,Support,2,"Friendly and efficient, problem solved!",Parker,Account Suspension Inquiry,3,Efficient Problem Solving  
+William Miller,Support,4,"Great service, my subscription problem was solved in no time.",Riley,Question about Membership Benefits,6,Subscription Problem Resolution  
+Linda Johnson,Support,1,"Waited too long for a response, very frustrating.",Jordan,Feedback on YouTube Music Service,4,Long Wait Time  
+Mary Garcia,Sales,3,"Friendly and efficient, problem solved!",Morgan,Billing Discrepancy in Subscription,3,Efficient Problem Solving  
+Robert Wilson,Sales,1,"Friendly and efficient, problem solved!",Riley,Billing Discrepancy in Subscription,3,Efficient Problem Solving  
+Elizabeth Smith,Support,3,"Not satisfied, my issue is still unresolved.",Robin,Billing Discrepancy in Subscription,0,Unresolved Issue  
+Michael Brown,Support,1,"Waited too long for a response, very frustrating.",Casey,Question about Membership Benefits,4,Long Wait Time  
+Robert Williams,Sales,5,"Excellent assistance, very patient and informative.",Jamie,Issue with YouTube Subscription Renewal,1,Excellent Assistance  
+James Jones,Sales,3,Impressed with the prompt response and courteous agent.,Avery,Query about Family Plan,5,Prompt and Courteous Response  
+Michael Williams,Support,2,"Unhelpful and rude service, very disappointed.",Alex,Account Suspension Inquiry,8,Unhelpful and Rude Service  
+John Jones,Support,5,"Great service, my subscription problem was solved in no time.",Riley,Billing Discrepancy in Subscription,6,Subscription Problem Resolution  
+Elizabeth Rodriguez,Sales,4,"Waited too long for a response, very frustrating.",Morgan,Question about Membership Benefits,4,Long Wait Time  
+Jennifer Johnson,Support,1,"Very helpful support, resolved my issue quickly!",Jordan,Question about Membership Benefits,10,Helpful Support
+Elizabeth Wilson,Sales,2,Agent lacked knowledge about YouTube subscriptions.,Jamie,Feedback on YouTube Music Service,7,Lack of Knowledge  
+Linda Smith,Sales,2,"Not satisfied, my issue is still unresolved.",Taylor,Query about Family Plan,0,Unresolved Issue  
+John Davis,Support,3,"Friendly and efficient, problem solved!",Casey,Query about Family Plan,3,Efficient Problem Solving  
+Linda Davis,Support,2,"Friendly and efficient, problem solved!",Alex,Difficulty in Cancelling Subscription,3,Efficient Problem Solving  
+Patricia Miller,Sales,4,"Excellent assistance, very patient and informative.",Casey,Trouble with Video Upload,1,Excellent Assistance  
+Linda Brown,Sales,3,"Excellent assistance, very patient and informative.",Casey,Query about Family Plan,1,Excellent Assistance  
+James Smith,Sales,5,"Unhelpful and rude service, very disappointed.",Robin,Technical Glitch during Video Playback,8,Unhelpful and Rude Service  
+William Rodriguez,Support,2,"Great service, my subscription problem was solved in no time.",Morgan,Billing Discrepancy in Subscription,6,Subscription Problem Resolution  
+Mary Brown,Support,2,"Waited too long for a response, very frustrating.",Taylor,Technical Glitch during Video Playback,4,Long Wait Time  
+John Miller,Sales,2,Impressed with the prompt response and courteous agent.,Morgan,Question about Membership Benefits,5,Prompt and Courteous Response  
+William Rodriguez,Sales,3,"Friendly and efficient, problem solved!",Parker,Account Suspension Inquiry,3,Efficient Problem Solving  
+Elizabeth Wilson,Support,2,"Poor service, the agent was not helpful.",Riley,Query about Family Plan,2,Poor Service  
+John Garcia,Support,2,"Poor service, the agent was not helpful.",Jamie,Trouble with Video Upload,2,Poor Service  
+William Miller,Support,3,"Poor service, the agent was not helpful.",Casey,Billing Discrepancy in Subscription,2,Poor Service  
+Patricia Brown,Sales,2,"Poor service, the agent was not helpful.",Casey,Question about Membership Benefits,2,Poor Service  
+Patricia Garcia,Support,4,"Very helpful support, resolved my issue quickly!",Parker,Feedback on YouTube Music Service,10,Helpful Support
+Linda Jones,Support,3,"Poor service, the agent was not helpful.",Jamie,Billing Discrepancy in Subscription,2,Poor Service  
+Robert Rodriguez,Sales,2,"Waited too long for a response, very frustrating.",Avery,Query about Family Plan,4,Long Wait Time  
+Patricia Wilson,Support,2,"Very helpful support, resolved my issue quickly!",Casey,Trouble with Video Upload,9,Quick Issue Resolution  
+Jennifer Johnson,Support,4,Agent lacked knowledge about YouTube subscriptions.,Taylor,Account Suspension Inquiry,7,Lack of Knowledge  
+Patricia Rodriguez,Support,3,"Poor service, the agent was not helpful.",Avery,Trouble with Video Upload,2,Poor Service  
+Robert Smith,Support,5,"Great service, my subscription problem was solved in no time.",Robin,Account Suspension Inquiry,6,Subscription Problem Resolution  
+Linda Wilson,Sales,5,Agent lacked knowledge about YouTube subscriptions.,Morgan,Difficulty in Cancelling Subscription,7,Lack of Knowledge  
+Elizabeth Garcia,Support,1,"Not satisfied, my issue is still unresolved.",Jordan,Trouble with Video Upload,0,Unresolved Issue  
+John Jones,Support,2,"Poor service, the agent was not helpful.",Jordan,Difficulty in Cancelling Subscription,2,Poor Service  
+Robert Jones,Support,1,"Waited too long for a response, very frustrating.",Robin,Query about Family Plan,4,Long Wait Time  
+William Wilson,Sales,2,"Poor service, the agent was not helpful.",Riley,Query about Family Plan,2,Poor Service  
+Michael Davis,Sales,3,"Not satisfied, my issue is still unresolved.",Morgan,Technical Glitch during Video Playback,0,Unresolved Issue  
+Patricia Miller,Sales,4,"Unhelpful and rude service, very disappointed.",Robin,Billing Discrepancy in Subscription,8,Unhelpful and Rude Service  
+John Jones,Sales,2,"Friendly and efficient, problem solved!",Riley,Problem Accessing Premium Content,3,Efficient Problem Solving  
+Linda Jones,Sales,2,Impressed with the prompt response and courteous agent.,Parker,Technical Glitch during Video Playback,5,Prompt and Courteous Response  
+Patricia Brown,Support,5,"Friendly and efficient, problem solved!",Parker,Billing Discrepancy in Subscription,3,Efficient Problem Solving  
+Elizabeth Rodriguez,Support,1,"Great service, my subscription problem was solved in no time.",Riley,Account Suspension Inquiry,6,Subscription Problem Resolution  
+William Garcia,Support,1,"Unhelpful and rude service, very disappointed.",Avery,Problem Accessing Premium Content,8,Unhelpful and Rude Service  
+Mary Miller,Sales,1,"Great service, my subscription problem was solved in no time.",Taylor,Technical Glitch during Video Playback,6,Subscription Problem Resolution  
+Patricia Wilson,Sales,3,"Waited too long for a response, very frustrating.",Jamie,Account Suspension Inquiry,4,Long Wait Time  
+John Davis,Support,3,Impressed with the prompt response and courteous agent.,Alex,Account Suspension Inquiry,5,Prompt and Courteous Response  
+Linda Williams,Support,4,"Poor service, the agent was not helpful.",Avery,Query about Family Plan,2,Poor Service  
+John Wilson,Support,5,"Great service, my subscription problem was solved in no time.",Jordan,Technical Glitch during Video Playback,6,Subscription Problem Resolution  
+James Rodriguez,Support,4,"Great service, my subscription problem was solved in no time.",Jordan,Trouble with Video Upload,6,Subscription Problem Resolution  
+Michael Jones,Sales,4,"Excellent assistance, very patient and informative.",Morgan,Account Suspension Inquiry,1,Excellent Assistance  
+James Garcia,Support,3,Impressed with the prompt response and courteous agent.,Jordan,Issue with YouTube Subscription Renewal,5,Prompt and Courteous Response  
+John Brown,Support,2,"Waited too long for a response, very frustrating.",Jordan,Account Suspension Inquiry,4,Long Wait Time  
+Jennifer Johnson,Support,1,"Not satisfied, my issue is still unresolved.",Riley,Problem Accessing Premium Content,0,Unresolved Issue  
+Michael Brown,Support,4,"Friendly and efficient, problem solved!",Robin,Problem Accessing Premium Content,3,Efficient Problem Solving  
+Michael Wilson,Support,5,"Poor service, the agent was not helpful.",Avery,Trouble with Video Upload,2,Poor Service  
+Linda Davis,Sales,5,"Unhelpful and rude service, very disappointed.",Taylor,Difficulty in Cancelling Subscription,8,Unhelpful and Rude Service  
+Robert Jones,Sales,3,"Excellent assistance, very patient and informative.",Robin,Billing Discrepancy in Subscription,1,Excellent Assistance  
+Patricia Johnson,Sales,2,"Excellent assistance, very patient and informative.",Taylor,Problem Accessing Premium Content,1,Excellent Assistance  
+Linda Garcia,Sales,2,Impressed with the prompt response and courteous agent.,Riley,Trouble with Video Upload,5,Prompt and Courteous Response  
+Robert Johnson,Sales,1,"Poor service, the agent was not helpful.",Alex,Trouble with Video Upload,2,Poor Service  
+Robert Johnson,Sales,1,Agent lacked knowledge about YouTube subscriptions.,Alex,Problem Accessing Premium Content,7,Lack of Knowledge  
+James Williams,Support,5,"Excellent assistance, very patient and informative.",Robin,Problem Accessing Premium Content,1,Excellent Assistance  
+Mary Brown,Sales,2,"Friendly and efficient, problem solved!",Jamie,Issue with YouTube Subscription Renewal,3,Efficient Problem Solving  
+William Jones,Support,5,"Poor service, the agent was not helpful.",Alex,Technical Glitch during Video Playback,2,Poor Service  
+Patricia Johnson,Sales,2,"Not satisfied, my issue is still unresolved.",Casey,Issue with YouTube Subscription Renewal,0,Unresolved Issue  
+John Wilson,Support,3,"Unhelpful and rude service, very disappointed.",Robin,Account Suspension Inquiry,8,Unhelpful and Rude Service  
+Robert Garcia,Sales,3,Impressed with the prompt response and courteous agent.,Taylor,Query about Family Plan,5,Prompt and Courteous Response  
+Robert Johnson,Sales,3,"Very helpful support, resolved my issue quickly!",Casey,Question about Membership Benefits,9,Quick Issue Resolution  
+Linda Williams,Support,4,"Unhelpful and rude service, very disappointed.",Morgan,Question about Membership Benefits,8,Unhelpful and Rude Service  
+William Garcia,Sales,5,"Poor service, the agent was not helpful.",Riley,Question about Membership Benefits,2,Poor Service  
+James Davis,Sales,1,"Friendly and efficient, problem solved!",Avery,Problem Accessing Premium Content,3,Efficient Problem Solving  
+James Jones,Sales,1,"Friendly and efficient, problem solved!",Riley,Difficulty in Cancelling Subscription,3,Efficient Problem Solving  
+Patricia Garcia,Sales,5,Agent lacked knowledge about YouTube subscriptions.,Morgan,Question about Membership Benefits,7,Lack of Knowledge  
+Elizabeth Johnson,Sales,4,"Excellent assistance, very patient and informative.",Robin,Problem Accessing Premium Content,1,Excellent Assistance  
+John Rodriguez,Support,1,"Waited too long for a response, very frustrating.",Jordan,Difficulty in Cancelling Subscription,4,Long Wait Time  
+Patricia Johnson,Sales,5,"Very helpful support, resolved my issue quickly!",Avery,Issue with YouTube Subscription Renewal,9,Quick Issue Resolution  
+Patricia Williams,Support,1,"Poor service, the agent was not helpful.",Avery,Question about Membership Benefits,2,Poor Service  
+Robert Williams,Support,2,"Very helpful support, resolved my issue quickly!",Morgan,Trouble with Video Upload,9,Quick Issue Resolution  
+Linda Smith,Sales,1,"Waited too long for a response, very frustrating.",Robin,Difficulty in Cancelling Subscription,4,Long Wait Time  
+Robert Miller,Support,1,"Great service, my subscription problem was solved in no time.",Jordan,Question about Membership Benefits,6,Subscription Problem Resolution  
+John Jones,Sales,4,"Great service, my subscription problem was solved in no time.",Avery,Problem Accessing Premium Content,6,Subscription Problem Resolution  
+Michael Rodriguez,Sales,3,"Very helpful support, resolved my issue quickly!",Parker,Problem Accessing Premium Content,9,Quick Issue Resolution  
+John Jones,Sales,4,"Waited too long for a response, very frustrating.",Riley,Technical Glitch during Video Playback,4,Long Wait Time  
+John Garcia,Support,1,"Not satisfied, my issue is still unresolved.",Avery,Feedback on YouTube Music Service,0,Unresolved Issue  
+Robert Rodriguez,Support,5,Agent lacked knowledge about YouTube subscriptions.,Parker,Difficulty in Cancelling Subscription,7,Lack of Knowledge  
+Robert Smith,Sales,5,"Great service, my subscription problem was solved in no time.",Jordan,Query about Family Plan,6,Subscription Problem Resolution  
+Robert Smith,Sales,5,"Very helpful support, resolved my issue quickly!",Alex,Problem Accessing Premium Content,10,Helpful Support
+John Garcia,Sales,4,"Waited too long for a response, very frustrating.",Taylor,Issue with YouTube Subscription Renewal,4,Long Wait Time  
+William Davis,Sales,5,"Great service, my subscription problem was solved in no time.",Taylor,Trouble with Video Upload,6,Subscription Problem Resolution  
+James Miller,Sales,1,"Waited too long for a response, very frustrating.",Taylor,Billing Discrepancy in Subscription,4,Long Wait Time  
+Mary Davis,Support,2,Impressed with the prompt response and courteous agent.,Alex,Billing Discrepancy in Subscription,5,Prompt and Courteous Response  
+Mary Williams,Sales,3,Agent lacked knowledge about YouTube subscriptions.,Riley,Technical Glitch during Video Playback,7,Lack of Knowledge  
+James Miller,Support,5,"Poor service, the agent was not helpful.",Casey,Feedback on YouTube Music Service,2,Poor Service  
+John Davis,Support,1,Agent lacked knowledge about YouTube subscriptions.,Alex,Problem Accessing Premium Content,7,Lack of Knowledge  
+Linda Smith,Sales,2,Impressed with the prompt response and courteous agent.,Jordan,Query about Family Plan,5,Prompt and Courteous Response  
+Elizabeth Wilson,Support,5,"Friendly and efficient, problem solved!",Casey,Difficulty in Cancelling Subscription,3,Efficient Problem Solving  
+John Smith,Sales,1,"Excellent assistance, very patient and informative.",Avery,Account Suspension Inquiry,1,Excellent Assistance  
+Elizabeth Rodriguez,Sales,1,"Waited too long for a response, very frustrating.",Robin,Feedback on YouTube Music Service,4,Long Wait Time  
+Patricia Miller,Support,2,Impressed with the prompt response and courteous agent.,Morgan,Query about Family Plan,5,Prompt and Courteous Response  
+William Johnson,Support,3,"Great service, my subscription problem was solved in no time.",Taylor,Query about Family Plan,6,Subscription Problem Resolution  
+James Davis,Support,3,"Not satisfied, my issue is still unresolved.",Taylor,Difficulty in Cancelling Subscription,0,Unresolved Issue  
+James Miller,Sales,5,"Friendly and efficient, problem solved!",Morgan,Issue with YouTube Subscription Renewal,3,Efficient Problem Solving  
+Patricia Wilson,Sales,3,"Waited too long for a response, very frustrating.",Casey,Billing Discrepancy in Subscription,4,Long Wait Time  
+Elizabeth Davis,Sales,1,"Not satisfied, my issue is still unresolved.",Parker,Trouble with Video Upload,0,Unresolved Issue  
+Robert Brown,Support,4,"Not satisfied, my issue is still unresolved.",Robin,Billing Discrepancy in Subscription,0,Unresolved Issue  
+Robert Davis,Support,3,"Not satisfied, my issue is still unresolved.",Jamie,Trouble with Video Upload,0,Unresolved Issue  
+Jennifer Williams,Support,4,"Friendly and efficient, problem solved!",Morgan,Difficulty in Cancelling Subscription,3,Efficient Problem Solving  
+James Williams,Support,4,Agent lacked knowledge about YouTube subscriptions.,Morgan,Problem Accessing Premium Content,7,Lack of Knowledge  
+Robert Brown,Support,4,"Excellent assistance, very patient and informative.",Jamie,Difficulty in Cancelling Subscription,1,Excellent Assistance  
+Michael Rodriguez,Sales,5,"Not satisfied, my issue is still unresolved.",Avery,Difficulty in Cancelling Subscription,0,Unresolved Issue  
+Michael Wilson,Support,3,"Waited too long for a response, very frustrating.",Taylor,Query about Family Plan,4,Long Wait Time  
+Jennifer Jones,Sales,3,"Not satisfied, my issue is still unresolved.",Jamie,Problem Accessing Premium Content,0,Unresolved Issue  
+Patricia Jones,Support,3,"Waited too long for a response, very frustrating.",Riley,Issue with YouTube Subscription Renewal,4,Long Wait Time  
+William Williams,Sales,1,"Excellent assistance, very patient and informative.",Parker,Technical Glitch during Video Playback,1,Excellent Assistance  
+Michael Wilson,Sales,5,"Not satisfied, my issue is still unresolved.",Alex,Feedback on YouTube Music Service,0,Unresolved Issue  
+William Smith,Sales,2,"Excellent assistance, very patient and informative.",Morgan,Account Suspension Inquiry,1,Excellent Assistance  
+Robert Williams,Support,4,Agent lacked knowledge about YouTube subscriptions.,Morgan,Account Suspension Inquiry,7,Lack of Knowledge  
+Patricia Garcia,Sales,1,"Unhelpful and rude service, very disappointed.",Robin,Billing Discrepancy in Subscription,8,Unhelpful and Rude Service  
+Patricia Wilson,Sales,3,Agent lacked knowledge about YouTube subscriptions.,Jamie,Issue with YouTube Subscription Renewal,7,Lack of Knowledge  
+Michael Brown,Sales,5,"Not satisfied, my issue is still unresolved.",Alex,Trouble with Video Upload,0,Unresolved Issue  
+Linda Williams,Support,3,Agent lacked knowledge about YouTube subscriptions.,Parker,Difficulty in Cancelling Subscription,7,Lack of Knowledge  
+Linda Johnson,Support,4,"Friendly and efficient, problem solved!",Taylor,Account Suspension Inquiry,3,Efficient Problem Solving  
+Michael Brown,Sales,5,"Great service, my subscription problem was solved in no time.",Robin,Feedback on YouTube Music Service,6,Subscription Problem Resolution  
+Linda Johnson,Sales,5,"Waited too long for a response, very frustrating.",Robin,Issue with YouTube Subscription Renewal,4,Long Wait Time  
+James Johnson,Support,4,"Poor service, the agent was not helpful.",Alex,Technical Glitch during Video Playback,2,Poor Service  
+Elizabeth Miller,Support,2,"Excellent assistance, very patient and informative.",Casey,Issue with YouTube Subscription Renewal,1,Excellent Assistance  
+Jennifer Wilson,Support,4,"Not satisfied, my issue is still unresolved.",Robin,Problem Accessing Premium Content,0,Unresolved Issue  
+Jennifer Rodriguez,Support,1,"Very helpful support, resolved my issue quickly!",Riley,Billing Discrepancy in Subscription,10,Helpful Support
+Robert Wilson,Support,1,"Waited too long for a response, very frustrating.",Jordan,Query about Family Plan,4,Long Wait Time  
+John Smith,Sales,3,"Waited too long for a response, very frustrating.",Taylor,Trouble with Video Upload,4,Long Wait Time  
+William Smith,Sales,1,"Poor service, the agent was not helpful.",Casey,Difficulty in Cancelling Subscription,2,Poor Service  
+Linda Wilson,Sales,1,Agent lacked knowledge about YouTube subscriptions.,Morgan,Feedback on YouTube Music Service,7,Lack of Knowledge  
+John Garcia,Support,2,"Great service, my subscription problem was solved in no time.",Casey,Feedback on YouTube Music Service,6,Subscription Problem Resolution  
+Robert Jones,Support,4,"Great service, my subscription problem was solved in no time.",Taylor,Question about Membership Benefits,6,Subscription Problem Resolution  
+William Rodriguez,Sales,3,"Very helpful support, resolved my issue quickly!",Morgan,Question about Membership Benefits,9,Quick Issue Resolution  
+William Johnson,Support,2,"Poor service, the agent was not helpful.",Robin,Billing Discrepancy in Subscription,2,Poor Service  
+Michael Jones,Support,5,Agent lacked knowledge about YouTube subscriptions.,Parker,Billing Discrepancy in Subscription,7,Lack of Knowledge  
+Patricia Smith,Sales,3,Impressed with the prompt response and courteous agent.,Riley,Problem Accessing Premium Content,5,Prompt and Courteous Response  
+Patricia Jones,Support,5,"Waited too long for a response, very frustrating.",Riley,Technical Glitch during Video Playback,4,Long Wait Time  
+John Garcia,Support,1,"Waited too long for a response, very frustrating.",Robin,Technical Glitch during Video Playback,4,Long Wait Time  
+Michael Wilson,Support,1,"Poor service, the agent was not helpful.",Taylor,Technical Glitch during Video Playback,2,Poor Service  
+Michael Wilson,Sales,4,"Not satisfied, my issue is still unresolved.",Morgan,Question about Membership Benefits,0,Unresolved Issue  
+Elizabeth Jones,Support,3,"Not satisfied, my issue is still unresolved.",Robin,Question about Membership Benefits,0,Unresolved Issue  
+Elizabeth Miller,Support,5,"Excellent assistance, very patient and informative.",Parker,Account Suspension Inquiry,1,Excellent Assistance  
+Jennifer Garcia,Sales,5,"Great service, my subscription problem was solved in no time.",Alex,Issue with YouTube Subscription Renewal,6,Subscription Problem Resolution  
+Robert Williams,Support,2,Impressed with the prompt response and courteous agent.,Parker,Issue with YouTube Subscription Renewal,5,Prompt and Courteous Response  
+James Wilson,Sales,2,"Poor service, the agent was not helpful.",Parker,Billing Discrepancy in Subscription,2,Poor Service  
+Linda Brown,Sales,4,"Poor service, the agent was not helpful.",Avery,Query about Family Plan,2,Poor Service  
+William Williams,Support,3,"Great service, my subscription problem was solved in no time.",Casey,Feedback on YouTube Music Service,6,Subscription Problem Resolution  
+Mary Brown,Sales,1,"Very helpful support, resolved my issue quickly!",Riley,Issue with YouTube Subscription Renewal,10,Helpful Support
+Mary Rodriguez,Support,2,Agent lacked knowledge about YouTube subscriptions.,Avery,Problem Accessing Premium Content,7,Lack of Knowledge  
+Jennifer Brown,Support,3,Agent lacked knowledge about YouTube subscriptions.,Taylor,Technical Glitch during Video Playback,7,Lack of Knowledge  
+Mary Wilson,Support,2,"Unhelpful and rude service, very disappointed.",Parker,Question about Membership Benefits,8,Unhelpful and Rude Service  
+William Rodriguez,Support,3,"Unhelpful and rude service, very disappointed.",Jordan,Problem Accessing Premium Content,8,Unhelpful and Rude Service  
+Elizabeth Davis,Support,3,"Unhelpful and rude service, very disappointed.",Morgan,Technical Glitch during Video Playback,8,Unhelpful and Rude Service  
+Patricia Smith,Sales,4,"Unhelpful and rude service, very disappointed.",Jamie,Technical Glitch during Video Playback,8,Unhelpful and Rude Service  
+William Miller,Sales,5,Impressed with the prompt response and courteous agent.,Alex,Difficulty in Cancelling Subscription,5,Prompt and Courteous Response  
+Patricia Smith,Sales,4,"Waited too long for a response, very frustrating.",Jamie,Billing Discrepancy in Subscription,4,Long Wait Time  
+James Brown,Support,5,Agent lacked knowledge about YouTube subscriptions.,Morgan,Feedback on YouTube Music Service,7,Lack of Knowledge  
+Jennifer Brown,Support,1,"Friendly and efficient, problem solved!",Alex,Technical Glitch during Video Playback,3,Efficient Problem Solving  
+Patricia Jones,Sales,3,"Friendly and efficient, problem solved!",Avery,Trouble with Video Upload,3,Efficient Problem Solving  
+Elizabeth Wilson,Sales,3,"Unhelpful and rude service, very disappointed.",Avery,Question about Membership Benefits,8,Unhelpful and Rude Service  
+Patricia Wilson,Support,4,"Poor service, the agent was not helpful.",Casey,Account Suspension Inquiry,2,Poor Service  
+Elizabeth Williams,Sales,3,"Friendly and efficient, problem solved!",Avery,Technical Glitch during Video Playback,3,Efficient Problem Solving  
+Elizabeth Miller,Support,4,"Friendly and efficient, problem solved!",Taylor,Account Suspension Inquiry,3,Efficient Problem Solving  
+Jennifer Smith,Sales,3,"Unhelpful and rude service, very disappointed.",Robin,Technical Glitch during Video Playback,8,Unhelpful and Rude Service  
+Robert Smith,Sales,4,"Friendly and efficient, problem solved!",Jordan,Difficulty in Cancelling Subscription,3,Efficient Problem Solving  
+William Rodriguez,Sales,2,"Great service, my subscription problem was solved in no time.",Parker,Query about Family Plan,6,Subscription Problem Resolution  
+Patricia Wilson,Sales,2,Agent lacked knowledge about YouTube subscriptions.,Alex,Query about Family Plan,7,Lack of Knowledge  
+Mary Miller,Support,2,"Waited too long for a response, very frustrating.",Avery,Account Suspension Inquiry,4,Long Wait Time  
+William Jones,Support,3,"Unhelpful and rude service, very disappointed.",Avery,Issue with YouTube Subscription Renewal,8,Unhelpful and Rude Service  
+James Brown,Support,3,"Excellent assistance, very patient and informative.",Taylor,Difficulty in Cancelling Subscription,1,Excellent Assistance  
+Elizabeth Jones,Sales,3,"Waited too long for a response, very frustrating.",Robin,Technical Glitch during Video Playback,4,Long Wait Time  
+Michael Garcia,Support,4,"Great service, my subscription problem was solved in no time.",Jordan,Trouble with Video Upload,6,Subscription Problem Resolution  
+James Garcia,Support,4,"Unhelpful and rude service, very disappointed.",Jordan,Trouble with Video Upload,8,Unhelpful and Rude Service  
+Jennifer Brown,Support,4,"Waited too long for a response, very frustrating.",Parker,Issue with YouTube Subscription Renewal,4,Long Wait Time  
+Mary Rodriguez,Sales,2,"Not satisfied, my issue is still unresolved.",Jordan,Account Suspension Inquiry,0,Unresolved Issue  
+Patricia Johnson,Support,5,Impressed with the prompt response and courteous agent.,Parker,Difficulty in Cancelling Subscription,5,Prompt and Courteous Response  
+John Miller,Sales,1,"Excellent assistance, very patient and informative.",Alex,Feedback on YouTube Music Service,1,Excellent Assistance  
+William Smith,Support,3,Agent lacked knowledge about YouTube subscriptions.,Riley,Problem Accessing Premium Content,7,Lack of Knowledge  
+Elizabeth Rodriguez,Sales,2,"Waited too long for a response, very frustrating.",Alex,Account Suspension Inquiry,4,Long Wait Time  
+Robert Davis,Sales,2,"Very helpful support, resolved my issue quickly!",Riley,Query about Family Plan,9,Quick Issue Resolution  
+John Wilson,Support,2,"Very helpful support, resolved my issue quickly!",Casey,Issue with YouTube Subscription Renewal,10,Helpful Support
+Robert Johnson,Sales,1,"Friendly and efficient, problem solved!",Casey,Query about Family Plan,3,Efficient Problem Solving  
+Patricia Wilson,Sales,3,"Friendly and efficient, problem solved!",Riley,Question about Membership Benefits,3,Efficient Problem Solving  
+Jennifer Rodriguez,Support,4,"Unhelpful and rude service, very disappointed.",Riley,Problem Accessing Premium Content,8,Unhelpful and Rude Service  
+Elizabeth Brown,Support,5,Agent lacked knowledge about YouTube subscriptions.,Robin,Account Suspension Inquiry,7,Lack of Knowledge  
+John Williams,Sales,1,"Poor service, the agent was not helpful.",Robin,Account Suspension Inquiry,2,Poor Service  
+James Brown,Sales,4,"Waited too long for a response, very frustrating.",Parker,Query about Family Plan,4,Long Wait Time  
+Robert Brown,Support,5,"Not satisfied, my issue is still unresolved.",Jamie,Feedback on YouTube Music Service,0,Unresolved Issue  
+Jennifer Brown,Sales,5,"Excellent assistance, very patient and informative.",Robin,Feedback on YouTube Music Service,1,Excellent Assistance  
+Elizabeth Davis,Support,5,"Friendly and efficient, problem solved!",Taylor,Feedback on YouTube Music Service,3,Efficient Problem Solving  
+Elizabeth Wilson,Sales,1,"Poor service, the agent was not helpful.",Casey,Account Suspension Inquiry,2,Poor Service  
+Mary Smith,Support,5,"Waited too long for a response, very frustrating.",Jordan,Query about Family Plan,4,Long Wait Time  
+Mary Johnson,Support,4,Agent lacked knowledge about YouTube subscriptions.,Jamie,Feedback on YouTube Music Service,7,Lack of Knowledge  
+Patricia Johnson,Support,1,"Very helpful support, resolved my issue quickly!",Parker,Query about Family Plan,9,Quick Issue Resolution  
+Elizabeth Jones,Support,3,"Waited too long for a response, very frustrating.",Morgan,Feedback on YouTube Music Service,4,Long Wait Time  
+John Rodriguez,Sales,3,"Unhelpful and rude service, very disappointed.",Parker,Issue with YouTube Subscription Renewal,8,Unhelpful and Rude Service  
+James Jones,Support,5,"Great service, my subscription problem was solved in no time.",Riley,Feedback on YouTube Music Service,6,Subscription Problem Resolution  
+Jennifer Smith,Sales,5,"Poor service, the agent was not helpful.",Jamie,Account Suspension Inquiry,2,Poor Service  
+Elizabeth Brown,Support,3,"Very helpful support, resolved my issue quickly!",Jordan,Trouble with Video Upload,9,Quick Issue Resolution  
+Michael Garcia,Support,5,"Waited too long for a response, very frustrating.",Alex,Issue with YouTube Subscription Renewal,4,Long Wait Time  
+Linda Brown,Sales,5,"Friendly and efficient, problem solved!",Casey,Query about Family Plan,3,Efficient Problem Solving  
+Michael Rodriguez,Support,2,"Great service, my subscription problem was solved in no time.",Avery,Feedback on YouTube Music Service,6,Subscription Problem Resolution  
+Mary Miller,Sales,1,"Not satisfied, my issue is still unresolved.",Morgan,Difficulty in Cancelling Subscription,0,Unresolved Issue  
+James Davis,Sales,1,"Very helpful support, resolved my issue quickly!",Alex,Feedback on YouTube Music Service,9,Quick Issue Resolution  
+Patricia Rodriguez,Support,5,"Unhelpful and rude service, very disappointed.",Alex,Billing Discrepancy in Subscription,8,Unhelpful and Rude Service  
+James Miller,Sales,1,"Friendly and efficient, problem solved!",Robin,Billing Discrepancy in Subscription,3,Efficient Problem Solving  
+Patricia Miller,Support,1,"Not satisfied, my issue is still unresolved.",Robin,Billing Discrepancy in Subscription,0,Unresolved Issue  
+Michael Wilson,Sales,5,Impressed with the prompt response and courteous agent.,Morgan,Account Suspension Inquiry,5,Prompt and Courteous Response  
+William Jones,Sales,3,"Excellent assistance, very patient and informative.",Alex,Query about Family Plan,1,Excellent Assistance  
+Patricia Smith,Support,1,"Waited too long for a response, very frustrating.",Jordan,Question about Membership Benefits,4,Long Wait Time  
+Robert Williams,Support,1,"Unhelpful and rude service, very disappointed.",Riley,Billing Discrepancy in Subscription,8,Unhelpful and Rude Service  
+Elizabeth Wilson,Support,4,"Waited too long for a response, very frustrating.",Jamie,Account Suspension Inquiry,4,Long Wait Time  
+Mary Jones,Sales,3,"Great service, my subscription problem was solved in no time.",Alex,Billing Discrepancy in Subscription,6,Subscription Problem Resolution  
+Patricia Davis,Support,5,"Very helpful support, resolved my issue quickly!",Morgan,Billing Discrepancy in Subscription,9,Quick Issue Resolution  
+Linda Williams,Support,5,Impressed with the prompt response and courteous agent.,Jordan,Trouble with Video Upload,5,Prompt and Courteous Response  
+Patricia Davis,Sales,5,"Friendly and efficient, problem solved!",Casey,Query about Family Plan,3,Efficient Problem Solving  
+Robert Brown,Support,3,"Not satisfied, my issue is still unresolved.",Casey,Trouble with Video Upload,0,Unresolved Issue  
+James Wilson,Support,5,"Waited too long for a response, very frustrating.",Avery,Difficulty in Cancelling Subscription,4,Long Wait Time  
+Patricia Garcia,Support,2,"Poor service, the agent was not helpful.",Alex,Query about Family Plan,2,Poor Service  
+Jennifer Williams,Support,5,Impressed with the prompt response and courteous agent.,Jamie,Trouble with Video Upload,5,Prompt and Courteous Response  
+Elizabeth Johnson,Sales,4,"Poor service, the agent was not helpful.",Jordan,Trouble with Video Upload,2,Poor Service  
+Linda Williams,Support,3,"Unhelpful and rude service, very disappointed.",Morgan,Question about Membership Benefits,8,Unhelpful and Rude Service  
+William Jones,Sales,2,"Poor service, the agent was not helpful.",Robin,Feedback on YouTube Music Service,2,Poor Service  
+William Miller,Support,2,Agent lacked knowledge about YouTube subscriptions.,Taylor,Problem Accessing Premium Content,7,Lack of Knowledge  
+Michael Wilson,Support,4,Impressed with the prompt response and courteous agent.,Robin,Feedback on YouTube Music Service,5,Prompt and Courteous Response  
+John Wilson,Sales,5,"Very helpful support, resolved my issue quickly!",Riley,Issue with YouTube Subscription Renewal,10,Helpful Support
+Robert Davis,Support,4,"Very helpful support, resolved my issue quickly!",Casey,Account Suspension Inquiry,10,Helpful Support
+Linda Smith,Sales,1,Impressed with the prompt response and courteous agent.,Casey,Account Suspension Inquiry,5,Prompt and Courteous Response  
+Michael Rodriguez,Sales,5,"Excellent assistance, very patient and informative.",Jamie,Billing Discrepancy in Subscription,1,Excellent Assistance  
+Robert Wilson,Sales,5,"Not satisfied, my issue is still unresolved.",Casey,Question about Membership Benefits,0,Unresolved Issue  
+John Miller,Sales,4,"Unhelpful and rude service, very disappointed.",Avery,Feedback on YouTube Music Service,8,Unhelpful and Rude Service  
+Patricia Williams,Support,4,Impressed with the prompt response and courteous agent.,Jordan,Question about Membership Benefits,5,Prompt and Courteous Response  
+James Smith,Support,5,"Waited too long for a response, very frustrating.",Taylor,Question about Membership Benefits,4,Long Wait Time  
+John Wilson,Support,4,"Waited too long for a response, very frustrating.",Jordan,Trouble with Video Upload,4,Long Wait Time  
+James Davis,Support,1,"Unhelpful and rude service, very disappointed.",Robin,Account Suspension Inquiry,8,Unhelpful and Rude Service  
+Patricia Williams,Sales,4,"Excellent assistance, very patient and informative.",Robin,Trouble with Video Upload,1,Excellent Assistance  
+John Brown,Sales,1,Agent lacked knowledge about YouTube subscriptions.,Jordan,Technical Glitch during Video Playback,7,Lack of Knowledge  
+Mary Miller,Sales,3,"Very helpful support, resolved my issue quickly!",Avery,Question about Membership Benefits,10,Helpful Support
+Linda Miller,Sales,1,"Waited too long for a response, very frustrating.",Parker,Account Suspension Inquiry,4,Long Wait Time  
+Patricia Johnson,Support,3,"Excellent assistance, very patient and informative.",Jamie,Query about Family Plan,1,Excellent Assistance  
+Elizabeth Garcia,Support,4,"Unhelpful and rude service, very disappointed.",Morgan,Problem Accessing Premium Content,8,Unhelpful and Rude Service  
+Robert Garcia,Support,2,"Friendly and efficient, problem solved!",Alex,Technical Glitch during Video Playback,3,Efficient Problem Solving  
+Patricia Davis,Sales,5,Impressed with the prompt response and courteous agent.,Jordan,Billing Discrepancy in Subscription,5,Prompt and Courteous Response  
+Michael Brown,Sales,5,"Very helpful support, resolved my issue quickly!",Jamie,Technical Glitch during Video Playback,9,Quick Issue Resolution  
+James Smith,Sales,5,"Very helpful support, resolved my issue quickly!",Avery,Account Suspension Inquiry,10,Helpful Support
+William Jones,Support,4,Impressed with the prompt response and courteous agent.,Parker,Issue with YouTube Subscription Renewal,5,Prompt and Courteous Response  
+Linda Smith,Support,2,"Waited too long for a response, very frustrating.",Casey,Query about Family Plan,4,Long Wait Time  
+William Rodriguez,Support,2,"Waited too long for a response, very frustrating.",Avery,Problem Accessing Premium Content,4,Long Wait Time  
+Elizabeth Rodriguez,Support,3,"Great service, my subscription problem was solved in no time.",Robin,Problem Accessing Premium Content,6,Subscription Problem Resolution  
+Jennifer Williams,Support,4,Impressed with the prompt response and courteous agent.,Jordan,Question about Membership Benefits,5,Prompt and Courteous Response  
+Michael Davis,Sales,3,"Great service, my subscription problem was solved in no time.",Alex,Question about Membership Benefits,6,Subscription Problem Resolution  
+James Miller,Sales,2,"Friendly and efficient, problem solved!",Robin,Query about Family Plan,3,Efficient Problem Solving  
+Michael Williams,Support,2,Impressed with the prompt response and courteous agent.,Riley,Question about Membership Benefits,5,Prompt and Courteous Response  
+Jennifer Davis,Sales,3,"Great service, my subscription problem was solved in no time.",Jamie,Trouble with Video Upload,6,Subscription Problem Resolution  
+Elizabeth Garcia,Support,4,"Great service, my subscription problem was solved in no time.",Jordan,Account Suspension Inquiry,6,Subscription Problem Resolution  
+John Williams,Support,5,"Not satisfied, my issue is still unresolved.",Avery,Trouble with Video Upload,0,Unresolved Issue  
+Jennifer Brown,Support,4,"Very helpful support, resolved my issue quickly!",Taylor,Feedback on YouTube Music Service,9,Quick Issue Resolution  
+Patricia Johnson,Sales,5,"Waited too long for a response, very frustrating.",Avery,Account Suspension Inquiry,4,Long Wait Time  
+John Davis,Support,2,"Friendly and efficient, problem solved!",Casey,Technical Glitch during Video Playback,3,Efficient Problem Solving  
+Michael Jones,Sales,3,"Poor service, the agent was not helpful.",Casey,Issue with YouTube Subscription Renewal,2,Poor Service  
+Elizabeth Brown,Support,2,"Excellent assistance, very patient and informative.",Jordan,Query about Family Plan,1,Excellent Assistance  
+Robert Davis,Sales,2,"Waited too long for a response, very frustrating.",Casey,Feedback on YouTube Music Service,4,Long Wait Time  
+Elizabeth Jones,Sales,1,"Friendly and efficient, problem solved!",Riley,Trouble with Video Upload,3,Efficient Problem Solving  
+Robert Brown,Support,1,"Waited too long for a response, very frustrating.",Morgan,Difficulty in Cancelling Subscription,4,Long Wait Time  
+Michael Garcia,Sales,3,"Great service, my subscription problem was solved in no time.",Morgan,Feedback on YouTube Music Service,6,Subscription Problem Resolution  
+Patricia Brown,Sales,2,"Excellent assistance, very patient and informative.",Casey,Feedback on YouTube Music Service,1,Excellent Assistance  
+James Williams,Sales,2,"Not satisfied, my issue is still unresolved.",Parker,Trouble with Video Upload,0,Unresolved Issue  
+James Miller,Sales,5,Agent lacked knowledge about YouTube subscriptions.,Riley,Difficulty in Cancelling Subscription,7,Lack of Knowledge  
+Linda Johnson,Support,4,"Not satisfied, my issue is still unresolved.",Casey,Query about Family Plan,0,Unresolved Issue  
+John Jones,Support,3,"Poor service, the agent was not helpful.",Alex,Billing Discrepancy in Subscription,2,Poor Service  
+Patricia Davis,Support,2,"Waited too long for a response, very frustrating.",Taylor,Feedback on YouTube Music Service,4,Long Wait Time  
+Mary Davis,Sales,1,"Great service, my subscription problem was solved in no time.",Jordan,Feedback on YouTube Music Service,6,Subscription Problem Resolution  
+Elizabeth Brown,Support,4,"Unhelpful and rude service, very disappointed.",Alex,Feedback on YouTube Music Service,8,Unhelpful and Rude Service  
+John Johnson,Support,4,"Excellent assistance, very patient and informative.",Jamie,Trouble with Video Upload,1,Excellent Assistance  
+Robert Garcia,Support,2,"Waited too long for a response, very frustrating.",Alex,Issue with YouTube Subscription Renewal,4,Long Wait Time  
+Linda Brown,Support,4,Agent lacked knowledge about YouTube subscriptions.,Riley,Trouble with Video Upload,7,Lack of Knowledge  
+William Smith,Sales,5,"Friendly and efficient, problem solved!",Parker,Difficulty in Cancelling Subscription,3,Efficient Problem Solving  
+Mary Brown,Sales,2,"Unhelpful and rude service, very disappointed.",Robin,Problem Accessing Premium Content,8,Unhelpful and Rude Service  
+Robert Brown,Support,2,"Great service, my subscription problem was solved in no time.",Jordan,Problem Accessing Premium Content,6,Subscription Problem Resolution  
+Jennifer Brown,Support,1,"Friendly and efficient, problem solved!",Robin,Question about Membership Benefits,3,Efficient Problem Solving  
+James Rodriguez,Sales,1,"Friendly and efficient, problem solved!",Casey,Billing Discrepancy in Subscription,3,Efficient Problem Solving  
+Linda Garcia,Sales,3,"Great service, my subscription problem was solved in no time.",Jamie,Billing Discrepancy in Subscription,6,Subscription Problem Resolution  
+John Williams,Sales,5,"Waited too long for a response, very frustrating.",Riley,Billing Discrepancy in Subscription,4,Long Wait Time  
+Patricia Brown,Support,5,Impressed with the prompt response and courteous agent.,Avery,Account Suspension Inquiry,5,Prompt and Courteous Response  
+James Jones,Sales,3,"Friendly and efficient, problem solved!",Jordan,Question about Membership Benefits,3,Efficient Problem Solving  
+John Williams,Sales,2,"Great service, my subscription problem was solved in no time.",Jamie,Difficulty in Cancelling Subscription,6,Subscription Problem Resolution  
+Linda Garcia,Support,2,"Great service, my subscription problem was solved in no time.",Alex,Billing Discrepancy in Subscription,6,Subscription Problem Resolution  
+Jennifer Williams,Support,1,"Very helpful support, resolved my issue quickly!",Morgan,Issue with YouTube Subscription Renewal,10,Helpful Support
+Linda Garcia,Sales,4,Impressed with the prompt response and courteous agent.,Avery,Query about Family Plan,5,Prompt and Courteous Response  
+Elizabeth Wilson,Support,1,Impressed with the prompt response and courteous agent.,Alex,Query about Family Plan,5,Prompt and Courteous Response  
+Linda Davis,Sales,1,"Excellent assistance, very patient and informative.",Morgan,Difficulty in Cancelling Subscription,1,Excellent Assistance  
+Robert Rodriguez,Sales,3,"Excellent assistance, very patient and informative.",Parker,Question about Membership Benefits,1,Excellent Assistance  
+William Garcia,Sales,1,Agent lacked knowledge about YouTube subscriptions.,Alex,Difficulty in Cancelling Subscription,7,Lack of Knowledge  
+Patricia Wilson,Sales,2,"Unhelpful and rude service, very disappointed.",Casey,Billing Discrepancy in Subscription,8,Unhelpful and Rude Service  
+Linda Brown,Support,3,Impressed with the prompt response and courteous agent.,Jamie,Technical Glitch during Video Playback,5,Prompt and Courteous Response  
+William Williams,Sales,1,"Very helpful support, resolved my issue quickly!",Avery,Question about Membership Benefits,10,Helpful Support
+Michael Brown,Sales,2,"Great service, my subscription problem was solved in no time.",Parker,Difficulty in Cancelling Subscription,6,Subscription Problem Resolution  
+Mary Williams,Support,3,"Waited too long for a response, very frustrating.",Morgan,Problem Accessing Premium Content,4,Long Wait Time  
+Elizabeth Smith,Sales,3,"Not satisfied, my issue is still unresolved.",Morgan,Billing Discrepancy in Subscription,0,Unresolved Issue  
+William Garcia,Support,3,"Poor service, the agent was not helpful.",Alex,Feedback on YouTube Music Service,2,Poor Service  
+Patricia Williams,Sales,4,"Waited too long for a response, very frustrating.",Casey,Billing Discrepancy in Subscription,4,Long Wait Time  
+Jennifer Jones,Sales,2,"Poor service, the agent was not helpful.",Taylor,Billing Discrepancy in Subscription,2,Poor Service  
+John Wilson,Support,5,"Waited too long for a response, very frustrating.",Taylor,Trouble with Video Upload,4,Long Wait Time  
+James Brown,Support,2,Impressed with the prompt response and courteous agent.,Jordan,Question about Membership Benefits,5,Prompt and Courteous Response  
+Michael Williams,Sales,3,"Unhelpful and rude service, very disappointed.",Taylor,Question about Membership Benefits,8,Unhelpful and Rude Service  
+Mary Jones,Support,3,"Friendly and efficient, problem solved!",Alex,Query about Family Plan,3,Efficient Problem Solving  
+Linda Brown,Support,4,"Great service, my subscription problem was solved in no time.",Alex,Problem Accessing Premium Content,6,Subscription Problem Resolution  
+Linda Smith,Sales,5,"Not satisfied, my issue is still unresolved.",Avery,Feedback on YouTube Music Service,0,Unresolved Issue  
+Jennifer Davis,Sales,2,"Great service, my subscription problem was solved in no time.",Parker,Technical Glitch during Video Playback,6,Subscription Problem Resolution  
+Jennifer Rodriguez,Sales,1,"Very helpful support, resolved my issue quickly!",Taylor,Feedback on YouTube Music Service,9,Quick Issue Resolution  
+Jennifer Rodriguez,Sales,2,"Friendly and efficient, problem solved!",Avery,Problem Accessing Premium Content,3,Efficient Problem Solving  
+James Williams,Sales,2,Agent lacked knowledge about YouTube subscriptions.,Riley,Technical Glitch during Video Playback,7,Lack of Knowledge  
+Patricia Jones,Sales,1,"Not satisfied, my issue is still unresolved.",Taylor,Difficulty in Cancelling Subscription,0,Unresolved Issue  
+Jennifer Johnson,Support,2,"Excellent assistance, very patient and informative.",Jamie,Difficulty in Cancelling Subscription,1,Excellent Assistance  
+Jennifer Rodriguez,Sales,4,"Poor service, the agent was not helpful.",Jordan,Trouble with Video Upload,2,Poor Service  
+Linda Miller,Support,2,"Poor service, the agent was not helpful.",Taylor,Issue with YouTube Subscription Renewal,2,Poor Service  
+Elizabeth Smith,Support,2,"Excellent assistance, very patient and informative.",Taylor,Issue with YouTube Subscription Renewal,1,Excellent Assistance  
+Jennifer Jones,Sales,3,"Unhelpful and rude service, very disappointed.",Casey,Billing Discrepancy in Subscription,8,Unhelpful and Rude Service  
+Patricia Johnson,Support,2,Agent lacked knowledge about YouTube subscriptions.,Jamie,Difficulty in Cancelling Subscription,7,Lack of Knowledge  
+William Brown,Support,4,"Poor service, the agent was not helpful.",Taylor,Question about Membership Benefits,2,Poor Service  
+John Garcia,Support,3,"Not satisfied, my issue is still unresolved.",Avery,Issue with YouTube Subscription Renewal,0,Unresolved Issue  
+John Williams,Support,2,"Waited too long for a response, very frustrating.",Casey,Account Suspension Inquiry,4,Long Wait Time  
+Patricia Miller,Sales,5,"Waited too long for a response, very frustrating.",Avery,Trouble with Video Upload,4,Long Wait Time  
+William Miller,Support,1,"Not satisfied, my issue is still unresolved.",Jordan,Billing Discrepancy in Subscription,0,Unresolved Issue  
+Elizabeth Miller,Support,2,Impressed with the prompt response and courteous agent.,Jordan,Feedback on YouTube Music Service,5,Prompt and Courteous Response  
+Robert Rodriguez,Sales,2,"Unhelpful and rude service, very disappointed.",Taylor,Question about Membership Benefits,8,Unhelpful and Rude Service  
+Patricia Davis,Support,4,"Not satisfied, my issue is still unresolved.",Taylor,Trouble with Video Upload,0,Unresolved Issue  
+James Rodriguez,Support,5,"Waited too long for a response, very frustrating.",Parker,Difficulty in Cancelling Subscription,4,Long Wait Time  
+Robert Miller,Support,5,"Great service, my subscription problem was solved in no time.",Riley,Account Suspension Inquiry,6,Subscription Problem Resolution  
+Michael Miller,Support,3,"Very helpful support, resolved my issue quickly!",Jordan,Billing Discrepancy in Subscription,10,Helpful Support
+Jennifer Williams,Sales,2,"Great service, my subscription problem was solved in no time.",Riley,Issue with YouTube Subscription Renewal,6,Subscription Problem Resolution  
+Linda Garcia,Sales,2,Impressed with the prompt response and courteous agent.,Riley,Question about Membership Benefits,5,Prompt and Courteous Response  
+Michael Jones,Sales,3,"Excellent assistance, very patient and informative.",Parker,Issue with YouTube Subscription Renewal,1,Excellent Assistance  
+Robert Rodriguez,Support,2,"Very helpful support, resolved my issue quickly!",Robin,Question about Membership Benefits,9,Quick Issue Resolution  
+James Jones,Support,2,Impressed with the prompt response and courteous agent.,Jamie,Issue with YouTube Subscription Renewal,5,Prompt and Courteous Response  
+Linda Smith,Support,3,Impressed with the prompt response and courteous agent.,Jamie,Account Suspension Inquiry,5,Prompt and Courteous Response  
+Robert Jones,Support,4,"Excellent assistance, very patient and informative.",Alex,Technical Glitch during Video Playback,1,Excellent Assistance  
+Patricia Garcia,Support,3,"Not satisfied, my issue is still unresolved.",Jamie,Technical Glitch during Video Playback,0,Unresolved Issue  
+Patricia Johnson,Sales,3,"Friendly and efficient, problem solved!",Avery,Account Suspension Inquiry,3,Efficient Problem Solving  
+Elizabeth Johnson,Support,5,Agent lacked knowledge about YouTube subscriptions.,Robin,Billing Discrepancy in Subscription,7,Lack of Knowledge  
+Michael Davis,Sales,5,Impressed with the prompt response and courteous agent.,Avery,Feedback on YouTube Music Service,5,Prompt and Courteous Response  
+James Rodriguez,Sales,4,"Great service, my subscription problem was solved in no time.",Jordan,Question about Membership Benefits,6,Subscription Problem Resolution  
+William Smith,Sales,2,Agent lacked knowledge about YouTube subscriptions.,Jamie,Technical Glitch during Video Playback,7,Lack of Knowledge  
+Mary Miller,Support,4,"Unhelpful and rude service, very disappointed.",Casey,Problem Accessing Premium Content,8,Unhelpful and Rude Service  
+William Davis,Support,1,"Unhelpful and rude service, very disappointed.",Parker,Feedback on YouTube Music Service,8,Unhelpful and Rude Service  
+Michael Johnson,Sales,2,"Unhelpful and rude service, very disappointed.",Casey,Question about Membership Benefits,8,Unhelpful and Rude Service  
+William Davis,Support,4,Impressed with the prompt response and courteous agent.,Morgan,Issue with YouTube Subscription Renewal,5,Prompt and Courteous Response  
+Jennifer Johnson,Support,1,"Poor service, the agent was not helpful.",Casey,Account Suspension Inquiry,2,Poor Service  
+Robert Smith,Support,3,"Unhelpful and rude service, very disappointed.",Avery,Difficulty in Cancelling Subscription,8,Unhelpful and Rude Service  
+John Davis,Sales,2,Agent lacked knowledge about YouTube subscriptions.,Avery,Query about Family Plan,7,Lack of Knowledge  
+Robert Brown,Support,2,"Unhelpful and rude service, very disappointed.",Casey,Issue with YouTube Subscription Renewal,8,Unhelpful and Rude Service  
+Michael Brown,Support,5,Impressed with the prompt response and courteous agent.,Parker,Billing Discrepancy in Subscription,5,Prompt and Courteous Response  
+Robert Brown,Support,2,"Friendly and efficient, problem solved!",Jordan,Feedback on YouTube Music Service,3,Efficient Problem Solving  
+William Miller,Sales,5,"Poor service, the agent was not helpful.",Jamie,Billing Discrepancy in Subscription,2,Poor Service  
+Jennifer Garcia,Support,4,"Great service, my subscription problem was solved in no time.",Jordan,Difficulty in Cancelling Subscription,6,Subscription Problem Resolution  
+Elizabeth Johnson,Sales,4,"Friendly and efficient, problem solved!",Parker,Feedback on YouTube Music Service,3,Efficient Problem Solving  
+Linda Rodriguez,Support,2,"Excellent assistance, very patient and informative.",Jordan,Problem Accessing Premium Content,1,Excellent Assistance  
+Michael Garcia,Support,1,Agent lacked knowledge about YouTube subscriptions.,Casey,Trouble with Video Upload,7,Lack of Knowledge  
+Linda Rodriguez,Support,2,"Excellent assistance, very patient and informative.",Jordan,Problem Accessing Premium Content,1,Excellent Assistance  
+Jennifer Johnson,Support,1,Agent lacked knowledge about YouTube subscriptions.,Riley,Difficulty in Cancelling Subscription,7,Lack of Knowledge  
+Elizabeth Brown,Support,3,"Not satisfied, my issue is still unresolved.",Jamie,Account Suspension Inquiry,0,Unresolved Issue  
+Michael Garcia,Support,2,Impressed with the prompt response and courteous agent.,Jordan,Account Suspension Inquiry,5,Prompt and Courteous Response  
+Robert Rodriguez,Support,1,"Excellent assistance, very patient and informative.",Alex,Query about Family Plan,1,Excellent Assistance  
+Jennifer Wilson,Support,2,"Poor service, the agent was not helpful.",Avery,Query about Family Plan,2,Poor Service  
+Mary Rodriguez,Support,4,"Excellent assistance, very patient and informative.",Jamie,Difficulty in Cancelling Subscription,1,Excellent Assistance  
+James Davis,Sales,4,"Excellent assistance, very patient and informative.",Morgan,Account Suspension Inquiry,1,Excellent Assistance  
+Patricia Johnson,Sales,3,"Great service, my subscription problem was solved in no time.",Taylor,Difficulty in Cancelling Subscription,6,Subscription Problem Resolution  
+Linda Wilson,Support,2,"Very helpful support, resolved my issue quickly!",Casey,Feedback on YouTube Music Service,9,Quick Issue Resolution  
+Michael Wilson,Sales,2,Impressed with the prompt response and courteous agent.,Alex,Issue with YouTube Subscription Renewal,5,Prompt and Courteous Response  
+Linda Miller,Support,4,"Not satisfied, my issue is still unresolved.",Jordan,Account Suspension Inquiry,0,Unresolved Issue  
+James Jones,Support,5,"Not satisfied, my issue is still unresolved.",Alex,Problem Accessing Premium Content,0,Unresolved Issue  
+Jennifer Johnson,Support,2,Impressed with the prompt response and courteous agent.,Taylor,Question about Membership Benefits,5,Prompt and Courteous Response  
+Michael Wilson,Support,3,"Unhelpful and rude service, very disappointed.",Robin,Account Suspension Inquiry,8,Unhelpful and Rude Service  
+William Garcia,Support,4,"Great service, my subscription problem was solved in no time.",Jordan,Question about Membership Benefits,6,Subscription Problem Resolution  
+Jennifer Williams,Sales,2,"Friendly and efficient, problem solved!",Casey,Difficulty in Cancelling Subscription,3,Efficient Problem Solving  
+Linda Wilson,Support,3,Impressed with the prompt response and courteous agent.,Morgan,Technical Glitch during Video Playback,5,Prompt and Courteous Response  
+Elizabeth Smith,Support,1,Agent lacked knowledge about YouTube subscriptions.,Riley,Issue with YouTube Subscription Renewal,7,Lack of Knowledge  
+Mary Miller,Support,2,"Waited too long for a response, very frustrating.",Casey,Feedback on YouTube Music Service,4,Long Wait Time  
+John Miller,Support,2,Impressed with the prompt response and courteous agent.,Riley,Trouble with Video Upload,5,Prompt and Courteous Response  
+William Smith,Sales,4,Agent lacked knowledge about YouTube subscriptions.,Jordan,Trouble with Video Upload,7,Lack of Knowledge  
+Patricia Garcia,Support,3,"Great service, my subscription problem was solved in no time.",Riley,Trouble with Video Upload,6,Subscription Problem Resolution  
+Robert Davis,Support,1,"Very helpful support, resolved my issue quickly!",Jordan,Issue with YouTube Subscription Renewal,9,Quick Issue Resolution  
+William Johnson,Support,4,"Poor service, the agent was not helpful.",Morgan,Problem Accessing Premium Content,2,Poor Service  
+John Garcia,Support,2,"Poor service, the agent was not helpful.",Morgan,Difficulty in Cancelling Subscription,2,Poor Service  
+Michael Brown,Sales,2,"Waited too long for a response, very frustrating.",Casey,Issue with YouTube Subscription Renewal,4,Long Wait Time  
+Linda Garcia,Sales,2,"Waited too long for a response, very frustrating.",Alex,Problem Accessing Premium Content,4,Long Wait Time  
+Michael Brown,Support,4,"Not satisfied, my issue is still unresolved.",Parker,Technical Glitch during Video Playback,0,Unresolved Issue  
+John Johnson,Sales,2,"Very helpful support, resolved my issue quickly!",Alex,Issue with YouTube Subscription Renewal,9,Quick Issue Resolution  
+Elizabeth Wilson,Support,3,Impressed with the prompt response and courteous agent.,Alex,Feedback on YouTube Music Service,5,Prompt and Courteous Response  
+James Smith,Support,5,"Great service, my subscription problem was solved in no time.",Alex,Billing Discrepancy in Subscription,6,Subscription Problem Resolution  
+Elizabeth Brown,Sales,5,"Great service, my subscription problem was solved in no time.",Alex,Problem Accessing Premium Content,6,Subscription Problem Resolution  
+Patricia Garcia,Support,1,"Unhelpful and rude service, very disappointed.",Robin,Feedback on YouTube Music Service,8,Unhelpful and Rude Service  
+Jennifer Wilson,Support,3,"Poor service, the agent was not helpful.",Riley,Technical Glitch during Video Playback,2,Poor Service  
+John Garcia,Sales,2,"Friendly and efficient, problem solved!",Alex,Issue with YouTube Subscription Renewal,3,Efficient Problem Solving  
+Robert Garcia,Support,5,"Friendly and efficient, problem solved!",Jordan,Issue with YouTube Subscription Renewal,3,Efficient Problem Solving  
+James Miller,Sales,5,"Poor service, the agent was not helpful.",Taylor,Billing Discrepancy in Subscription,2,Poor Service  
+Elizabeth Garcia,Support,2,Impressed with the prompt response and courteous agent.,Jamie,Difficulty in Cancelling Subscription,5,Prompt and Courteous Response  
+Robert Brown,Support,5,Impressed with the prompt response and courteous agent.,Avery,Billing Discrepancy in Subscription,5,Prompt and Courteous Response  
+Robert Williams,Support,2,"Unhelpful and rude service, very disappointed.",Jordan,Question about Membership Benefits,8,Unhelpful and Rude Service  
+Michael Garcia,Sales,3,"Great service, my subscription problem was solved in no time.",Parker,Issue with YouTube Subscription Renewal,6,Subscription Problem Resolution  
+Michael Rodriguez,Sales,3,"Not satisfied, my issue is still unresolved.",Casey,Question about Membership Benefits,0,Unresolved Issue  
+Linda Williams,Support,5,"Unhelpful and rude service, very disappointed.",Parker,Difficulty in Cancelling Subscription,8,Unhelpful and Rude Service  
+Jennifer Brown,Sales,4,"Great service, my subscription problem was solved in no time.",Jordan,Question about Membership Benefits,6,Subscription Problem Resolution  
+Elizabeth Jones,Support,3,"Friendly and efficient, problem solved!",Jordan,Query about Family Plan,3,Efficient Problem Solving  
+Mary Williams,Sales,5,Agent lacked knowledge about YouTube subscriptions.,Parker,Account Suspension Inquiry,7,Lack of Knowledge  
+Mary Jones,Sales,5,"Poor service, the agent was not helpful.",Avery,Technical Glitch during Video Playback,2,Poor Service  
+John Brown,Support,2,"Very helpful support, resolved my issue quickly!",Jamie,Question about Membership Benefits,9,Quick Issue Resolution  
+Patricia Brown,Sales,3,"Very helpful support, resolved my issue quickly!",Casey,Question about Membership Benefits,10,Helpful Support
+Elizabeth Jones,Sales,5,"Waited too long for a response, very frustrating.",Morgan,Query about Family Plan,4,Long Wait Time  
+Jennifer Wilson,Sales,2,"Unhelpful and rude service, very disappointed.",Alex,Billing Discrepancy in Subscription,8,Unhelpful and Rude Service  
+John Wilson,Sales,4,Impressed with the prompt response and courteous agent.,Robin,Technical Glitch during Video Playback,5,Prompt and Courteous Response  
+Linda Davis,Sales,1,Impressed with the prompt response and courteous agent.,Robin,Question about Membership Benefits,5,Prompt and Courteous Response  
+John Rodriguez,Sales,3,"Waited too long for a response, very frustrating.",Avery,Difficulty in Cancelling Subscription,4,Long Wait Time  
+William Garcia,Support,2,"Waited too long for a response, very frustrating.",Morgan,Difficulty in Cancelling Subscription,4,Long Wait Time  
+John Jones,Sales,2,"Excellent assistance, very patient and informative.",Casey,Trouble with Video Upload,1,Excellent Assistance  
+Robert Johnson,Sales,4,"Very helpful support, resolved my issue quickly!",Avery,Query about Family Plan,10,Helpful Support
+Robert Smith,Sales,4,Impressed with the prompt response and courteous agent.,Taylor,Difficulty in Cancelling Subscription,5,Prompt and Courteous Response  
+Michael Jones,Sales,3,"Unhelpful and rude service, very disappointed.",Avery,Issue with YouTube Subscription Renewal,8,Unhelpful and Rude Service  
+Mary Rodriguez,Sales,5,"Poor service, the agent was not helpful.",Jordan,Trouble with Video Upload,2,Poor Service  
+Michael Johnson,Sales,5,Agent lacked knowledge about YouTube subscriptions.,Casey,Billing Discrepancy in Subscription,7,Lack of Knowledge  
+Robert Brown,Sales,1,Impressed with the prompt response and courteous agent.,Alex,Problem Accessing Premium Content,5,Prompt and Courteous Response  
+William Williams,Sales,4,Impressed with the prompt response and courteous agent.,Jamie,Technical Glitch during Video Playback,5,Prompt and Courteous Response  
+Linda Garcia,Support,1,"Great service, my subscription problem was solved in no time.",Alex,Issue with YouTube Subscription Renewal,6,Subscription Problem Resolution  
+Linda Rodriguez,Sales,2,Impressed with the prompt response and courteous agent.,Parker,Problem Accessing Premium Content,5,Prompt and Courteous Response  
+John Davis,Sales,1,Impressed with the prompt response and courteous agent.,Riley,Question about Membership Benefits,5,Prompt and Courteous Response  
+Linda Garcia,Sales,3,"Great service, my subscription problem was solved in no time.",Riley,Query about Family Plan,6,Subscription Problem Resolution  
+Mary Johnson,Support,5,"Unhelpful and rude service, very disappointed.",Robin,Query about Family Plan,8,Unhelpful and Rude Service  
+Robert Garcia,Sales,3,"Waited too long for a response, very frustrating.",Jordan,Query about Family Plan,4,Long Wait Time  
+James Miller,Sales,2,"Very helpful support, resolved my issue quickly!",Taylor,Question about Membership Benefits,10,Helpful Support
+John Miller,Sales,4,Agent lacked knowledge about YouTube subscriptions.,Jamie,Billing Discrepancy in Subscription,7,Lack of Knowledge  
+Elizabeth Brown,Support,4,Impressed with the prompt response and courteous agent.,Jordan,Query about Family Plan,5,Prompt and Courteous Response  
+Patricia Johnson,Sales,5,Agent lacked knowledge about YouTube subscriptions.,Morgan,Question about Membership Benefits,7,Lack of Knowledge  
+Jennifer Garcia,Sales,1,Agent lacked knowledge about YouTube subscriptions.,Taylor,Question about Membership Benefits,7,Lack of Knowledge  
+Robert Garcia,Sales,1,"Poor service, the agent was not helpful.",Casey,Issue with YouTube Subscription Renewal,2,Poor Service  
+William Garcia,Sales,3,"Great service, my subscription problem was solved in no time.",Taylor,Question about Membership Benefits,6,Subscription Problem Resolution  
+Elizabeth Rodriguez,Sales,1,Agent lacked knowledge about YouTube subscriptions.,Taylor,Difficulty in Cancelling Subscription,7,Lack of Knowledge  
+John Brown,Support,2,"Not satisfied, my issue is still unresolved.",Riley,Problem Accessing Premium Content,0,Unresolved Issue  
+James Brown,Sales,1,"Friendly and efficient, problem solved!",Robin,Difficulty in Cancelling Subscription,3,Efficient Problem Solving  
+Robert Williams,Support,2,"Friendly and efficient, problem solved!",Alex,Problem Accessing Premium Content,3,Efficient Problem Solving  
+Robert Wilson,Sales,5,"Great service, my subscription problem was solved in no time.",Avery,Account Suspension Inquiry,6,Subscription Problem Resolution  
+Linda Johnson,Support,5,"Waited too long for a response, very frustrating.",Alex,Billing Discrepancy in Subscription,4,Long Wait Time  
+Mary Jones,Sales,4,"Excellent assistance, very patient and informative.",Robin,Question about Membership Benefits,1,Excellent Assistance  
+James Jones,Support,1,"Waited too long for a response, very frustrating.",Jamie,Technical Glitch during Video Playback,4,Long Wait Time  
+Michael Garcia,Support,2,"Not satisfied, my issue is still unresolved.",Robin,Question about Membership Benefits,0,Unresolved Issue  
+James Wilson,Support,3,"Very helpful support, resolved my issue quickly!",Jamie,Query about Family Plan,10,Helpful Support
+Elizabeth Wilson,Sales,5,"Great service, my subscription problem was solved in no time.",Jordan,Question about Membership Benefits,6,Subscription Problem Resolution  
+Linda Williams,Support,1,"Not satisfied, my issue is still unresolved.",Parker,Technical Glitch during Video Playback,0,Unresolved Issue  
+Elizabeth Wilson,Support,1,"Not satisfied, my issue is still unresolved.",Casey,Question about Membership Benefits,0,Unresolved Issue  
+Mary Smith,Sales,3,"Unhelpful and rude service, very disappointed.",Alex,Billing Discrepancy in Subscription,8,Unhelpful and Rude Service  
+James Wilson,Support,4,"Waited too long for a response, very frustrating.",Morgan,Question about Membership Benefits,4,Long Wait Time  
+Michael Johnson,Sales,4,"Very helpful support, resolved my issue quickly!",Morgan,Problem Accessing Premium Content,10,Helpful Support
+Elizabeth Garcia,Support,5,Impressed with the prompt response and courteous agent.,Jamie,Technical Glitch during Video Playback,5,Prompt and Courteous Response  
+Michael Johnson,Sales,2,"Poor service, the agent was not helpful.",Robin,Issue with YouTube Subscription Renewal,2,Poor Service  
+William Wilson,Support,1,"Excellent assistance, very patient and informative.",Robin,Query about Family Plan,1,Excellent Assistance  
+Michael Brown,Support,3,"Unhelpful and rude service, very disappointed.",Jordan,Trouble with Video Upload,8,Unhelpful and Rude Service  
+James Rodriguez,Sales,5,"Unhelpful and rude service, very disappointed.",Robin,Problem Accessing Premium Content,8,Unhelpful and Rude Service  
+William Wilson,Support,3,Agent lacked knowledge about YouTube subscriptions.,Alex,Issue with YouTube Subscription Renewal,7,Lack of Knowledge  
+Elizabeth Smith,Sales,5,"Great service, my subscription problem was solved in no time.",Casey,Technical Glitch during Video Playback,6,Subscription Problem Resolution  
+William Williams,Sales,5,Agent lacked knowledge about YouTube subscriptions.,Jordan,Issue with YouTube Subscription Renewal,7,Lack of Knowledge  
+Jennifer Garcia,Support,2,"Not satisfied, my issue is still unresolved.",Alex,Difficulty in Cancelling Subscription,0,Unresolved Issue  
+William Davis,Sales,4,"Not satisfied, my issue is still unresolved.",Taylor,Feedback on YouTube Music Service,0,Unresolved Issue  
+Robert Rodriguez,Sales,3,"Very helpful support, resolved my issue quickly!",Alex,Query about Family Plan,10,Helpful Support
+Robert Johnson,Sales,3,"Poor service, the agent was not helpful.",Riley,Billing Discrepancy in Subscription,2,Poor Service  
+Michael Wilson,Support,2,"Not satisfied, my issue is still unresolved.",Robin,Question about Membership Benefits,0,Unresolved Issue  
+Mary Rodriguez,Support,5,Agent lacked knowledge about YouTube subscriptions.,Jamie,Billing Discrepancy in Subscription,7,Lack of Knowledge  
+Elizabeth Williams,Support,5,"Not satisfied, my issue is still unresolved.",Morgan,Billing Discrepancy in Subscription,0,Unresolved Issue  
+Elizabeth Jones,Sales,4,"Very helpful support, resolved my issue quickly!",Alex,Problem Accessing Premium Content,10,Helpful Support
+Linda Jones,Sales,2,"Excellent assistance, very patient and informative.",Parker,Issue with YouTube Subscription Renewal,1,Excellent Assistance  
+Mary Smith,Support,3,"Not satisfied, my issue is still unresolved.",Alex,Feedback on YouTube Music Service,0,Unresolved Issue  
+John Williams,Sales,4,"Very helpful support, resolved my issue quickly!",Jordan,Question about Membership Benefits,10,Helpful Support
+Jennifer Wilson,Support,4,"Friendly and efficient, problem solved!",Robin,Difficulty in Cancelling Subscription,3,Efficient Problem Solving  
+Mary Davis,Sales,5,"Unhelpful and rude service, very disappointed.",Morgan,Question about Membership Benefits,8,Unhelpful and Rude Service  
+James Johnson,Sales,5,"Very helpful support, resolved my issue quickly!",Jordan,Billing Discrepancy in Subscription,10,Helpful Support
+Jennifer Williams,Support,1,"Very helpful support, resolved my issue quickly!",Morgan,Difficulty in Cancelling Subscription,10,Helpful Support
+Linda Garcia,Sales,1,"Very helpful support, resolved my issue quickly!",Robin,Feedback on YouTube Music Service,10,Helpful Support
+Robert Williams,Sales,5,"Very helpful support, resolved my issue quickly!",Morgan,Technical Glitch during Video Playback,10,Helpful Support
+Jennifer Rodriguez,Sales,2,"Friendly and efficient, problem solved!",Parker,Issue with YouTube Subscription Renewal,3,Efficient Problem Solving  
+Robert Williams,Sales,3,Agent lacked knowledge about YouTube subscriptions.,Morgan,Difficulty in Cancelling Subscription,7,Lack of Knowledge  
+Mary Davis,Sales,5,"Excellent assistance, very patient and informative.",Avery,Billing Discrepancy in Subscription,1,Excellent Assistance  
+William Garcia,Support,5,"Poor service, the agent was not helpful.",Alex,Trouble with Video Upload,2,Poor Service  
+Jennifer Johnson,Sales,4,"Not satisfied, my issue is still unresolved.",Jordan,Account Suspension Inquiry,0,Unresolved Issue  
+Mary Jones,Support,1,"Excellent assistance, very patient and informative.",Jamie,Technical Glitch during Video Playback,1,Excellent Assistance  
+William Williams,Support,3,Impressed with the prompt response and courteous agent.,Robin,Technical Glitch during Video Playback,5,Prompt and Courteous Response  
+Elizabeth Williams,Support,3,"Not satisfied, my issue is still unresolved.",Riley,Problem Accessing Premium Content,0,Unresolved Issue  
+John Garcia,Sales,4,Agent lacked knowledge about YouTube subscriptions.,Parker,Technical Glitch during Video Playback,7,Lack of Knowledge  
+Michael Garcia,Support,4,"Poor service, the agent was not helpful.",Casey,Question about Membership Benefits,2,Poor Service  
+James Davis,Sales,3,"Poor service, the agent was not helpful.",Casey,Feedback on YouTube Music Service,2,Poor Service  
+James Rodriguez,Sales,4,"Very helpful support, resolved my issue quickly!",Casey,Billing Discrepancy in Subscription,10,Helpful Support
+Michael Rodriguez,Support,3,"Unhelpful and rude service, very disappointed.",Avery,Account Suspension Inquiry,8,Unhelpful and Rude Service  
+Jennifer Davis,Sales,5,"Waited too long for a response, very frustrating.",Casey,Feedback on YouTube Music Service,4,Long Wait Time  
+Patricia Davis,Support,3,Impressed with the prompt response and courteous agent.,Alex,Query about Family Plan,5,Prompt and Courteous Response  
+John Miller,Support,2,Impressed with the prompt response and courteous agent.,Parker,Feedback on YouTube Music Service,5,Prompt and Courteous Response  
+Mary Johnson,Sales,2,"Waited too long for a response, very frustrating.",Jordan,Technical Glitch during Video Playback,4,Long Wait Time  
+Linda Smith,Support,5,"Great service, my subscription problem was solved in no time.",Robin,Issue with YouTube Subscription Renewal,6,Subscription Problem Resolution  
+James Smith,Sales,4,Impressed with the prompt response and courteous agent.,Morgan,Problem Accessing Premium Content,5,Prompt and Courteous Response  
+Mary Rodriguez,Support,1,"Very helpful support, resolved my issue quickly!",Avery,Problem Accessing Premium Content,9,Quick Issue Resolution  
+Robert Garcia,Sales,5,"Waited too long for a response, very frustrating.",Taylor,Question about Membership Benefits,4,Long Wait Time  
+Patricia Johnson,Support,5,"Very helpful support, resolved my issue quickly!",Robin,Technical Glitch during Video Playback,9,Quick Issue Resolution  
+William Garcia,Sales,2,"Excellent assistance, very patient and informative.",Robin,Question about Membership Benefits,1,Excellent Assistance  
+Patricia Williams,Sales,4,"Poor service, the agent was not helpful.",Jordan,Billing Discrepancy in Subscription,2,Poor Service  
+Linda Jones,Support,4,"Very helpful support, resolved my issue quickly!",Taylor,Difficulty in Cancelling Subscription,9,Quick Issue Resolution  
+William Brown,Sales,2,"Great service, my subscription problem was solved in no time.",Robin,Problem Accessing Premium Content,6,Subscription Problem Resolution  
+Linda Jones,Support,1,"Great service, my subscription problem was solved in no time.",Robin,Billing Discrepancy in Subscription,6,Subscription Problem Resolution  
+Elizabeth Rodriguez,Support,3,"Poor service, the agent was not helpful.",Alex,Problem Accessing Premium Content,2,Poor Service  
+James Jones,Support,5,"Not satisfied, my issue is still unresolved.",Alex,Query about Family Plan,0,Unresolved Issue  
+James Williams,Sales,1,"Excellent assistance, very patient and informative.",Jamie,Difficulty in Cancelling Subscription,1,Excellent Assistance  
+John Jones,Support,2,"Excellent assistance, very patient and informative.",Casey,Question about Membership Benefits,1,Excellent Assistance  
+Elizabeth Brown,Sales,1,Agent lacked knowledge about YouTube subscriptions.,Casey,Technical Glitch during Video Playback,7,Lack of Knowledge  
+Jennifer Williams,Support,2,"Great service, my subscription problem was solved in no time.",Morgan,Feedback on YouTube Music Service,6,Subscription Problem Resolution  
+Jennifer Jones,Sales,4,"Very helpful support, resolved my issue quickly!",Parker,Difficulty in Cancelling Subscription,10,Helpful Support
+Linda Jones,Sales,2,"Friendly and efficient, problem solved!",Alex,Question about Membership Benefits,3,Efficient Problem Solving  
+Mary Brown,Sales,3,"Excellent assistance, very patient and informative.",Avery,Issue with YouTube Subscription Renewal,1,Excellent Assistance  
+Michael Wilson,Support,1,"Great service, my subscription problem was solved in no time.",Taylor,Trouble with Video Upload,6,Subscription Problem Resolution  
+Patricia Rodriguez,Sales,2,Impressed with the prompt response and courteous agent.,Robin,Account Suspension Inquiry,5,Prompt and Courteous Response  
+William Wilson,Support,4,Impressed with the prompt response and courteous agent.,Robin,Question about Membership Benefits,5,Prompt and Courteous Response  
+James Brown,Sales,5,"Great service, my subscription problem was solved in no time.",Riley,Query about Family Plan,6,Subscription Problem Resolution  
+Linda Johnson,Support,2,"Not satisfied, my issue is still unresolved.",Morgan,Feedback on YouTube Music Service,0,Unresolved Issue  
+Michael Wilson,Support,5,"Poor service, the agent was not helpful.",Robin,Problem Accessing Premium Content,2,Poor Service  
+John Garcia,Sales,1,"Excellent assistance, very patient and informative.",Jamie,Billing Discrepancy in Subscription,1,Excellent Assistance  
+Linda Williams,Sales,4,"Great service, my subscription problem was solved in no time.",Taylor,Billing Discrepancy in Subscription,6,Subscription Problem Resolution  
+Mary Jones,Support,4,"Excellent assistance, very patient and informative.",Jamie,Issue with YouTube Subscription Renewal,1,Excellent Assistance  
+Michael Williams,Sales,3,"Great service, my subscription problem was solved in no time.",Riley,Query about Family Plan,6,Subscription Problem Resolution  
+Michael Rodriguez,Support,5,"Unhelpful and rude service, very disappointed.",Jordan,Issue with YouTube Subscription Renewal,8,Unhelpful and Rude Service  
+Jennifer Johnson,Sales,3,"Excellent assistance, very patient and informative.",Avery,Feedback on YouTube Music Service,1,Excellent Assistance  
+Elizabeth Rodriguez,Sales,5,"Friendly and efficient, problem solved!",Jamie,Account Suspension Inquiry,3,Efficient Problem Solving  
+James Williams,Sales,5,"Very helpful support, resolved my issue quickly!",Jordan,Feedback on YouTube Music Service,9,Quick Issue Resolution  
+Elizabeth Williams,Sales,1,"Poor service, the agent was not helpful.",Riley,Question about Membership Benefits,2,Poor Service  
+Michael Brown,Support,2,"Very helpful support, resolved my issue quickly!",Robin,Account Suspension Inquiry,9,Quick Issue Resolution  
+James Miller,Support,5,"Very helpful support, resolved my issue quickly!",Riley,Query about Family Plan,9,Quick Issue Resolution  
+Jennifer Brown,Sales,1,"Poor service, the agent was not helpful.",Riley,Problem Accessing Premium Content,2,Poor Service  
+Jennifer Miller,Sales,1,"Not satisfied, my issue is still unresolved.",Robin,Query about Family Plan,0,Unresolved Issue  
+Elizabeth Brown,Support,4,"Very helpful support, resolved my issue quickly!",Jordan,Account Suspension Inquiry,10,Helpful Support
+Elizabeth Brown,Sales,2,"Friendly and efficient, problem solved!",Jordan,Difficulty in Cancelling Subscription,3,Efficient Problem Solving  
+Robert Wilson,Support,5,"Waited too long for a response, very frustrating.",Parker,Query about Family Plan,4,Long Wait Time  
+James Brown,Sales,2,"Poor service, the agent was not helpful.",Jamie,Difficulty in Cancelling Subscription,2,Poor Service  
+Michael Smith,Sales,1,Impressed with the prompt response and courteous agent.,Casey,Trouble with Video Upload,5,Prompt and Courteous Response  
+James Garcia,Sales,4,"Poor service, the agent was not helpful.",Casey,Query about Family Plan,2,Poor Service  
+Michael Jones,Sales,4,"Not satisfied, my issue is still unresolved.",Casey,Question about Membership Benefits,0,Unresolved Issue  
+James Brown,Sales,3,Impressed with the prompt response and courteous agent.,Casey,Technical Glitch during Video Playback,5,Prompt and Courteous Response  
+John Miller,Sales,3,Agent lacked knowledge about YouTube subscriptions.,Jordan,Question about Membership Benefits,7,Lack of Knowledge  
+Mary Williams,Support,5,Impressed with the prompt response and courteous agent.,Morgan,Difficulty in Cancelling Subscription,5,Prompt and Courteous Response  
+Jennifer Miller,Support,5,"Very helpful support, resolved my issue quickly!",Jamie,Query about Family Plan,10,Helpful Support
+Jennifer Wilson,Support,1,"Not satisfied, my issue is still unresolved.",Jordan,Billing Discrepancy in Subscription,0,Unresolved Issue  
+James Davis,Sales,4,"Friendly and efficient, problem solved!",Jamie,Question about Membership Benefits,3,Efficient Problem Solving  
+John Wilson,Support,3,Impressed with the prompt response and courteous agent.,Jamie,Billing Discrepancy in Subscription,5,Prompt and Courteous Response  
+Patricia Smith,Sales,1,"Poor service, the agent was not helpful.",Casey,Technical Glitch during Video Playback,2,Poor Service  
+James Wilson,Support,4,"Excellent assistance, very patient and informative.",Alex,Trouble with Video Upload,1,Excellent Assistance  
+James Davis,Support,3,"Unhelpful and rude service, very disappointed.",Taylor,Account Suspension Inquiry,8,Unhelpful and Rude Service  
+Elizabeth Miller,Support,1,"Not satisfied, my issue is still unresolved.",Robin,Problem Accessing Premium Content,0,Unresolved Issue  
+Robert Wilson,Support,5,"Not satisfied, my issue is still unresolved.",Jamie,Query about Family Plan,0,Unresolved Issue  
+Patricia Smith,Support,5,"Great service, my subscription problem was solved in no time.",Morgan,Difficulty in Cancelling Subscription,6,Subscription Problem Resolution  
+Patricia Johnson,Support,2,"Friendly and efficient, problem solved!",Casey,Trouble with Video Upload,3,Efficient Problem Solving  
+James Smith,Support,1,Agent lacked knowledge about YouTube subscriptions.,Riley,Feedback on YouTube Music Service,7,Lack of Knowledge  
+Elizabeth Williams,Support,2,"Waited too long for a response, very frustrating.",Taylor,Query about Family Plan,4,Long Wait Time  
+Elizabeth Wilson,Sales,5,"Poor service, the agent was not helpful.",Robin,Issue with YouTube Subscription Renewal,2,Poor Service  
+Robert Miller,Sales,4,"Poor service, the agent was not helpful.",Robin,Technical Glitch during Video Playback,2,Poor Service  
+James Wilson,Sales,2,"Waited too long for a response, very frustrating.",Casey,Difficulty in Cancelling Subscription,4,Long Wait Time  
+Patricia Johnson,Support,5,Impressed with the prompt response and courteous agent.,Robin,Trouble with Video Upload,5,Prompt and Courteous Response  
+Jennifer Miller,Support,4,"Friendly and efficient, problem solved!",Alex,Problem Accessing Premium Content,3,Efficient Problem Solving  
+Elizabeth Smith,Support,1,"Very helpful support, resolved my issue quickly!",Morgan,Issue with YouTube Subscription Renewal,9,Quick Issue Resolution  
+Linda Rodriguez,Support,1,Impressed with the prompt response and courteous agent.,Avery,Trouble with Video Upload,5,Prompt and Courteous Response  
+Jennifer Brown,Support,3,"Great service, my subscription problem was solved in no time.",Casey,Query about Family Plan,6,Subscription Problem Resolution  
+James Garcia,Support,3,"Waited too long for a response, very frustrating.",Jordan,Feedback on YouTube Music Service,4,Long Wait Time  
+Robert Williams,Support,2,"Friendly and efficient, problem solved!",Taylor,Question about Membership Benefits,3,Efficient Problem Solving  
+William Rodriguez,Sales,4,Impressed with the prompt response and courteous agent.,Casey,Question about Membership Benefits,5,Prompt and Courteous Response  
+Patricia Miller,Sales,3,"Unhelpful and rude service, very disappointed.",Alex,Query about Family Plan,8,Unhelpful and Rude Service  
+Mary Wilson,Sales,2,Impressed with the prompt response and courteous agent.,Morgan,Account Suspension Inquiry,5,Prompt and Courteous Response  
+Jennifer Smith,Sales,2,Agent lacked knowledge about YouTube subscriptions.,Casey,Difficulty in Cancelling Subscription,7,Lack of Knowledge  
+Robert Miller,Support,1,"Friendly and efficient, problem solved!",Robin,Account Suspension Inquiry,3,Efficient Problem Solving  
+Robert Davis,Support,3,"Waited too long for a response, very frustrating.",Morgan,Question about Membership Benefits,4,Long Wait Time  
+Mary Brown,Support,3,"Waited too long for a response, very frustrating.",Avery,Technical Glitch during Video Playback,4,Long Wait Time  
+John Rodriguez,Sales,1,"Poor service, the agent was not helpful.",Avery,Account Suspension Inquiry,2,Poor Service  
+William Garcia,Support,5,"Waited too long for a response, very frustrating.",Taylor,Question about Membership Benefits,4,Long Wait Time  
+James Williams,Support,5,"Not satisfied, my issue is still unresolved.",Parker,Query about Family Plan,0,Unresolved Issue  
+Robert Smith,Sales,4,Agent lacked knowledge about YouTube subscriptions.,Riley,Feedback on YouTube Music Service,7,Lack of Knowledge  
+Michael Brown,Support,2,"Very helpful support, resolved my issue quickly!",Jordan,Query about Family Plan,10,Helpful Support
+Patricia Johnson,Sales,3,"Friendly and efficient, problem solved!",Jordan,Problem Accessing Premium Content,3,Efficient Problem Solving  
+James Williams,Sales,2,"Very helpful support, resolved my issue quickly!",Robin,Technical Glitch during Video Playback,10,Helpful Support
+William Williams,Support,2,"Friendly and efficient, problem solved!",Casey,Issue with YouTube Subscription Renewal,3,Efficient Problem Solving  
+James Wilson,Support,1,"Waited too long for a response, very frustrating.",Alex,Trouble with Video Upload,4,Long Wait Time  
+Robert Smith,Sales,5,"Very helpful support, resolved my issue quickly!",Jordan,Difficulty in Cancelling Subscription,10,Helpful Support
+Linda Davis,Support,5,"Poor service, the agent was not helpful.",Alex,Difficulty in Cancelling Subscription,2,Poor Service  
+Elizabeth Rodriguez,Sales,3,"Waited too long for a response, very frustrating.",Parker,Feedback on YouTube Music Service,4,Long Wait Time  
+Linda Wilson,Support,5,"Friendly and efficient, problem solved!",Jamie,Difficulty in Cancelling Subscription,3,Efficient Problem Solving  
+Elizabeth Jones,Support,1,"Waited too long for a response, very frustrating.",Morgan,Technical Glitch during Video Playback,4,Long Wait Time  
+Patricia Brown,Sales,2,Agent lacked knowledge about YouTube subscriptions.,Parker,Problem Accessing Premium Content,7,Lack of Knowledge  
+Linda Smith,Support,2,"Unhelpful and rude service, very disappointed.",Parker,Difficulty in Cancelling Subscription,8,Unhelpful and Rude Service  
+Elizabeth Davis,Sales,5,"Not satisfied, my issue is still unresolved.",Alex,Question about Membership Benefits,0,Unresolved Issue  
+Robert Smith,Sales,1,"Great service, my subscription problem was solved in no time.",Riley,Technical Glitch during Video Playback,6,Subscription Problem Resolution  
