@@ -10,7 +10,7 @@ from sklearn.metrics import silhouette_score
 import openai
 from dotenv import find_dotenv, load_dotenv
 from sentence_transformers import SentenceTransformer
-import matplotlib.pyplot as plt
+import matvisualizelib.pyvisualize as plt
 import pickle
 
 
@@ -22,7 +22,7 @@ class ConversationProcessor:
     def _clean_conversations(self, column):
         REPLACE_WITH_SPACE = re.compile("(<br\s/><br\s/?)|(-)|(/)|(:).")
         tempArr = [REPLACE_WITH_SPACE.sub(" ", p.clean(line.lower())) for line in column]
-        return tempArr
+        return tempArr  
 
     def _prepare_dataset(self):
         df = pd.read_csv(self.input_path)
@@ -66,14 +66,15 @@ class EmbeddingsExtractor:
 
 
 class ClusterAnalyzer:
-    def __init__(self, df):
+    def __init__(self, df, visualize=False):
         self.df = df
+        self.visualize = visualize
 
-    def silhouette_analysis(self, n_clusters_range, silhouette_scores):
+    def silhouette_analysis_viz(self, n_clusters_range, silhouette_scores):
         plt.figure(figsize=(10, 6))
         bars = plt.bar(n_clusters_range, silhouette_scores, color='gray')
         max_index = np.argmax(silhouette_scores)
-        bars[max_index].set_color('#4d41e0')
+        bars[max_index].set_color('#4d41e0')     
         plt.xticks(n_clusters_range)
         plt.xlabel('Number of Clusters')
         plt.ylabel('Silhouette Score')
@@ -97,8 +98,8 @@ class ClusterAnalyzer:
 
             if silhouette_avg >= max(silhouette_scores):
                 kmeans_model = kmeans
-
-        self.silhouette_analysis(n_clusters_range, silhouette_scores)
+        if self.visualize:
+            self.silhouette_analysis_viz(n_clusters_range, silhouette_scores)
         return silhouette_scores, kmeans_model
 
     def analyze_clusters(self, column, method='kmeans'):
@@ -168,18 +169,11 @@ class ClassificationProcessor:
         return self.df
 
 
-class DataExporter:
-    def __init__(self, df):
-        self.df = df
-
-    def convert_to_excel(self):
-        self.df.drop(columns=['clean_conversations', 'hug_embeddings'], axis=1, inplace=True)
-        self.df.to_excel(r'output/tweets.xlsx', index=None, header=True)
-
-
 if __name__ == "__main__":
     # Tweet_clusterization is main script. To run it, enter your directory in input_path. In _prepare_dataset rename the column with customer messages to ConversationRemark.
-    input_path = 'your/path'
+    # TODO: change to use argparse
+    input_path = 'your/path' 
+    output_path = r'output/tweets.xlsx' 
 
 
     # initialize openai client
@@ -206,6 +200,5 @@ if __name__ == "__main__":
     classification_processor = ClassificationProcessor(df_conversations, kmeans_model)
     df_classified = classification_processor.classify_classes()
 
-    # Export Data
-    data_exporter = DataExporter(df_classified)
-    data_exporter.convert_to_excel()
+    tech_columns = ["clean_conversations", "hug_embeddings"]
+    df_classified.drop(columns=tech_columns).to_excel(output_path, index=None, header=True)
